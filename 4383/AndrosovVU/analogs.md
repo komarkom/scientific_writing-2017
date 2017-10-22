@@ -98,4 +98,5 @@ This course covers the very basics of Android development. We will build a simpl
 
 Источники:
 https://www.science-education.ru/ru/article/view?id=11491
+
 https://cyberleninka.ru/article/n/otsenka-kachestva-onlayn-kursov
