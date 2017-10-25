@@ -39,9 +39,9 @@ Checking for purpose-statement files...
     research_object.md       ...	61 symbols
     research_subject.md      ...	176 symbols
     goal.md                  ...	173 symbols
-    tasks.md                 ...	127 symbols
+    tasks.md                 ...	327 symbols
     relevance.md             ...	415 symbols
-  All files               ...	1196 symbols
+  All files               ...	1396 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	does not exist!
@@ -221,7 +221,7 @@ Checking /paper_base directory for .pdf files
   selection_criteria.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	966 symbols
+    fact_result.md           ...	1198 symbols
   Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
      problem.md               ...	Exists!
@@ -236,13 +236,13 @@ Checking for purpose-statement files...
     research_object.md       ...	41 symbols
     research_subject.md      ...	52 symbols
     goal.md                  ...	53 symbols
-    tasks.md                 ...	Empty!
+    tasks.md                 ...	224 symbols
     relevance.md             ...	159 symbols
-  All files               ...	547 symbols
+  All files               ...	771 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	2778 symbols
+    analogs.md               ...	3382 symbols
   Number of symbols in analogs.md                 ...	Good.
   Analogs title!          ...	Exists!
    Number of analogs     ...	Good.
@@ -387,9 +387,9 @@ Checking for purpose-statement files...
     research_object.md       ...	44 symbols
     research_subject.md      ...	97 symbols
     goal.md                  ...	85 symbols
-    tasks.md                 ...	Empty!
+    tasks.md                 ...	188 symbols
     relevance.md             ...	195 symbols
-  All files               ...	511 symbols
+  All files               ...	699 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	does not exist!
@@ -452,8 +452,8 @@ Checking /paper_base directory for .pdf files
   praktika_2_semestr.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	222 symbols
-  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+    fact_result.md           ...	1282 symbols
+  Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
      problem.md               ...	Exists!
      research_object.md       ...	Exists!
@@ -467,13 +467,13 @@ Checking for purpose-statement files...
     research_object.md       ...	77 symbols
     research_subject.md      ...	115 symbols
     goal.md                  ...	106 symbols
-    tasks.md                 ...	6 symbols
+    tasks.md                 ...	167 symbols
     relevance.md             ...	150 symbols
-  All files               ...	705 symbols
+  All files               ...	866 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	936 symbols
+    analogs.md               ...	969 symbols
   Number of symbols in analogs.md                 ...	Not enough. Min = 2000
   Analogs title!          ...	Exists!
    Number of analogs     ...	Good.
@@ -492,7 +492,7 @@ Checking /paper_base directory for .pdf files
   201403-GDC_UnityPhysicallyBasedShading_notes.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	232 symbols
+    fact_result.md           ...	601 symbols
   Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
      problem.md               ...	Exists!
@@ -507,9 +507,9 @@ Checking for purpose-statement files...
     research_object.md       ...	36 symbols
     research_subject.md      ...	77 symbols
     goal.md                  ...	86 symbols
-    tasks.md                 ...	Empty!
+    tasks.md                 ...	194 symbols
     relevance.md             ...	489 symbols
-  All files               ...	1052 symbols
+  All files               ...	1246 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
