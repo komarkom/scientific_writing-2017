@@ -70,49 +70,106 @@ Checking for directory "./4381/KarpuninSA"
 Checking /paper_base directory for .pdf files
  Directory doesn't exist!
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	1046 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	91 symbols
+    research_object.md       ...	65 symbols
+    research_subject.md      ...	68 symbols
+    goal.md                  ...	157 symbols
+    tasks.md                 ...	222 symbols
+    relevance.md             ...	126 symbols
+  All files               ...	729 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	2287 symbols
+  Number of symbols in analogs.md                 ...	Good.
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for directory "./4381/KarpenkoDR"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
  Directory doesn't exist!
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	1046 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	91 symbols
+    research_object.md       ...	65 symbols
+    research_subject.md      ...	68 symbols
+    goal.md                  ...	157 symbols
+    tasks.md                 ...	222 symbols
+    relevance.md             ...	126 symbols
+  All files               ...	729 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	2287 symbols
+  Number of symbols in analogs.md                 ...	Good.
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for directory "./4381/NikitinaEV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
  Directory doesn't exist!
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	1046 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	91 symbols
+    research_object.md       ...	65 symbols
+    research_subject.md      ...	68 symbols
+    goal.md                  ...	157 symbols
+    tasks.md                 ...	222 symbols
+    relevance.md             ...	126 symbols
+  All files               ...	729 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	2287 symbols
+  Number of symbols in analogs.md                 ...	Good.
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for directory "./4381/LaptsevichDA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -351,17 +408,33 @@ Checking for directory "./2304"
 Checking for directory "./2304/DanilovSV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  ranking.pdf
+  scientific_work_1_semester.pdf
+  Similarity.pdf
+  MergingAndRankingQAAnswers.pdf
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	1313 symbols
+  Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	174 symbols
+    research_object.md       ...	58 symbols
+    research_subject.md      ...	130 symbols
+    goal.md                  ...	67 symbols
+    tasks.md                 ...	223 symbols
+    relevance.md             ...	194 symbols
+  All files               ...	846 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for directory "./2304/ChaykaKV"
@@ -373,7 +446,9 @@ Checking /paper_base directory for .pdf files
   The Kautham Project: A teaching and research tool for robot motion planning.pdf
   MoveitROS_topics.pdf
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	1413 symbols
+  Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
      problem.md               ...	Exists!
      research_object.md       ...	Exists!
@@ -392,23 +467,15 @@ Checking for purpose-statement files...
   All files               ...	699 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
-Checking for directory "./2304/MaximKE"
- Directory                ...	Exists!
-Checking /paper_base directory for .pdf files
- Directory doesn't exist!
-Checking for fact_result.md
- fact_result.md           ...	does not exist!
-Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
-Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	1526 symbols
+  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for directory "./2304/MikhaylovVV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -425,22 +492,78 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for directory "./2304/VolkovAA"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory                ...	Exists!
+ .pdf files found:
+  [Open Computer Science] Mining moving object data.pdf
+  review2b.pdf
+  Do_ISWC_2011.pdf
+  VisAware.pdf
+  cybersec2012-song.pdf
+  p65-fischer.pdf
+  EberleJASR11.pdf
+Checking for fact_result.md
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	253 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	93 symbols
+    research_object.md       ...	46 symbols
+    research_subject.md      ...	50 symbols
+    goal.md                  ...	107 symbols
+    tasks.md                 ...	291 symbols
+    relevance.md             ...	479 symbols
+  All files               ...	1066 symbols
+  Number of symbols in purpose statement's        ...	Good.
+Checking for analogs.md
+ analogs.md               ...	does not exist!
 Checking for directory "./2304/EfremovMA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  [Robotics Middleware: A Comprehensive Literature Survey and Attribute-Based Bibliography][Ayssam Elkady and Tarek Sobh].pdf
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	1880 symbols
+  Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	118 symbols
+    research_object.md       ...	30 symbols
+    research_subject.md      ...	49 symbols
+    goal.md                  ...	85 symbols
+    tasks.md                 ...	325 symbols
+    relevance.md             ...	460 symbols
+  All files               ...	1067 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	5031 symbols
+  Number of symbols in analogs.md                 ...	Good.
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for directory "./2304/KomarovDN"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -537,6 +660,41 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for directory "./2304/KuzminME"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory                ...	Exists!
+ .pdf files found:
+  full_report.pdf
+Checking for fact_result.md
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	815 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	230 symbols
+    research_object.md       ...	87 symbols
+    research_subject.md      ...	144 symbols
+    goal.md                  ...	103 symbols
+    tasks.md                 ...	372 symbols
+    relevance.md             ...	269 symbols
+  All files               ...	1205 symbols
+  Number of symbols in purpose statement's        ...	Good.
+Checking for analogs.md
+ analogs.md               ...	Exists!
+    analogs.md               ...	162 symbols
+  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+  There is no Analogs title!
+  There is no Criterias title!
+  Sources title!          ...	Exists!
+   Number of sources     ...	Not enough. Min = 1
 Checking for directory "./2304/LikhachevAA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -590,35 +748,78 @@ Checking for analogs.md
 Checking for directory "./2381/BudchanDS"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  Glusko_Titov.pdf
+  Budchan_NIR.pdf
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	666 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	126 symbols
+    research_object.md       ...	88 symbols
+    research_subject.md      ...	105 symbols
+    goal.md                  ...	142 symbols
+    tasks.md                 ...	384 symbols
+    relevance.md             ...	190 symbols
+  All files               ...	1035 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	1770 symbols
+  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for directory "./2381/RazmochaevaNV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  neyronnye-seti-v-upravlenii-roznichnoy-torgovley.pdf
+  primenenie-metodov-iskusstvennogo-intellekta-dlya-analiza-i-prognoza-tovarooborota-roznichnogo-torgovogo-predpriyatiya.pdf
+  neyrosetevoe-modelirovanie-dinamiki-nelineynyh-sistem.pdf
 Checking for fact_result.md
  fact_result.md           ...	does not exist!
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	131 symbols
+    research_object.md       ...	22 symbols
+    research_subject.md      ...	53 symbols
+    goal.md                  ...	109 symbols
+    tasks.md                 ...	556 symbols
+    relevance.md             ...	246 symbols
+  All files               ...	1117 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	1397 symbols
+  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for directory "./2303"
  Directory                ...	Exists!
 Checking for directory "./2303/KozlovPV"
@@ -626,78 +827,4 @@ Checking for directory "./2303/KozlovPV"
 Checking /paper_base directory for .pdf files
  Directory doesn't exist!
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
-Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
-Checking for analogs.md
- analogs.md               ...	does not exist!
-Checking for directory "./2303/SkorospelovLA"
- Directory                ...	Exists!
-Checking /paper_base directory for .pdf files
- Directory doesn't exist!
-Checking for fact_result.md
- fact_result.md           ...	does not exist!
-Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
-Checking for analogs.md
- analogs.md               ...	does not exist!
-Checking for directory "./2303/ZaborovskiyEV"
- Directory                ...	Exists!
-Checking /paper_base directory for .pdf files
- Directory doesn't exist!
-Checking for fact_result.md
- fact_result.md           ...	does not exist!
-Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
-Checking for analogs.md
- analogs.md               ...	does not exist!
-Checking for directory "./2303/ManyashinDA"
- Directory                ...	Exists!
-Checking /paper_base directory for .pdf files
- Directory doesn't exist!
-Checking for fact_result.md
- fact_result.md           ...	does not exist!
-Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
-Checking for analogs.md
- analogs.md               ...	does not exist!
-Checking for directory "./2303/CherepanovEA"
- Directory                ...	Exists!
-Checking /paper_base directory for .pdf files
- Directory doesn't exist!
-Checking for fact_result.md
- fact_result.md           ...	does not exist!
-Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
-Checking for analogs.md
- analogs.md               ...	does not exist!
+ fact_result.md           ...	Exists!
