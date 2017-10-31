@@ -2,6 +2,8 @@ Checking for directory "./"
  Directory                ...	Exists!
 Checking for directory "./4303"
  Directory                ...	Exists!
+4303/PolushinaYI
+__
 Checking for directory "./4303/PolushinaYI"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -20,6 +22,8 @@ Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for directory "./6304"
  Directory                ...	Exists!
+6304/PutkovDA
+__
 Checking for directory "./6304/PutkovDA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -35,18 +39,20 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	244 symbols
+    problem.md               ...	107 symbols
     research_object.md       ...	61 symbols
     research_subject.md      ...	176 symbols
     goal.md                  ...	173 symbols
-    tasks.md                 ...	327 symbols
-    relevance.md             ...	415 symbols
-  All files               ...	1396 symbols
+    tasks.md                 ...	218 symbols
+    relevance.md             ...	394 symbols
+  All files               ...	1129 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for directory "./3304"
  Directory                ...	Exists!
+3304/OsipovVG
+__
 Checking for directory "./3304/OsipovVG"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -65,6 +71,8 @@ Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for directory "./4381"
  Directory                ...	Exists!
+4381/KarpuninSA
+__
 Checking for directory "./4381/KarpuninSA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -100,6 +108,8 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+4381/KarpenkoDR
+__
 Checking for directory "./4381/KarpenkoDR"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -135,6 +145,8 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+4381/NikitinaEV
+__
 Checking for directory "./4381/NikitinaEV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -170,6 +182,8 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+4381/LaptsevichDA
+__
 Checking for directory "./4381/LaptsevichDA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -188,6 +202,8 @@ Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for directory "./4383"
  Directory                ...	Exists!
+4383/KozlovskykhEB
+__
 Checking for directory "./4383/KozlovskykhEB"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -204,6 +220,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+4383/KhudiakovaDD
+__
 Checking for directory "./4383/KhudiakovaDD"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -220,6 +238,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+4383/KoptugAD
+__
 Checking for directory "./4383/KoptugAD"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -236,6 +256,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+4383/AleshinSV
+__
 Checking for directory "./4383/AleshinSV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -252,6 +274,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+4383/RymarMI
+__
 Checking for directory "./4383/RymarMI"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -268,6 +292,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+4383/AndrosovVU
+__
 Checking for directory "./4383/AndrosovVU"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -305,6 +331,8 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   There is no Criterias title!
   There is no Sources title!
+4383/AkhmetshinaRR
+__
 Checking for directory "./4383/AkhmetshinaRR"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -321,6 +349,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+4383/GuschaVV
+__
 Checking for directory "./4383/GuschaVV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -337,6 +367,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+4383/DronnikovIM
+__
 Checking for directory "./4383/DronnikovIM"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -353,6 +385,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+4383/GordeevaTV
+__
 Checking for directory "./4383/GordeevaTV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -371,6 +405,8 @@ Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for directory "./4382"
  Directory                ...	Exists!
+4382/LarionovDS
+__
 Checking for directory "./4382/LarionovDS"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -387,6 +423,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+4382/PerkovAS
+__
 Checking for directory "./4382/PerkovAS"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -405,6 +443,8 @@ Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for directory "./2304"
  Directory                ...	Exists!
+2304/DanilovSV
+__
 Checking for directory "./2304/DanilovSV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -437,6 +477,8 @@ Checking for purpose-statement files...
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	does not exist!
+2304/ChaykaKV
+__
 Checking for directory "./2304/ChaykaKV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -476,6 +518,8 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+2304/MikhaylovVV
+__
 Checking for directory "./2304/MikhaylovVV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -492,6 +536,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+2304/VolkovAA
+__
 Checking for directory "./2304/VolkovAA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -527,6 +573,8 @@ Checking for purpose-statement files...
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	does not exist!
+2304/EfremovMA
+__
 Checking for directory "./2304/EfremovMA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -564,6 +612,8 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+2304/KomarovDN
+__
 Checking for directory "./2304/KomarovDN"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -604,6 +654,8 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+2304/KlimukKP
+__
 Checking for directory "./2304/KlimukKP"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -644,6 +696,8 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	Not enough. Min = 1
+2304/IshchenkoAP
+__
 Checking for directory "./2304/IshchenkoAP"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -660,6 +714,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+2304/KuzminME
+__
 Checking for directory "./2304/KuzminME"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -695,6 +751,8 @@ Checking for analogs.md
   There is no Criterias title!
   Sources title!          ...	Exists!
    Number of sources     ...	Not enough. Min = 1
+2304/LikhachevAA
+__
 Checking for directory "./2304/LikhachevAA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -713,6 +771,8 @@ Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for directory "./2381"
  Directory                ...	Exists!
+2381/ChulanovAA
+__
 Checking for directory "./2381/ChulanovAA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -729,6 +789,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+2381/ZhangirovTR
+__
 Checking for directory "./2381/ZhangirovTR"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -745,6 +807,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+2381/BudchanDS
+__
 Checking for directory "./2381/BudchanDS"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -783,6 +847,8 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+2381/RazmochaevaNV
+__
 Checking for directory "./2381/RazmochaevaNV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -822,6 +888,8 @@ Checking for analogs.md
    Number of sources     ...	At least 1! Good!
 Checking for directory "./2303"
  Directory                ...	Exists!
+2303/KozlovPV
+__
 Checking for directory "./2303/KozlovPV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -854,6 +922,8 @@ Checking for analogs.md
   There is no Analogs title!
   There is no Criterias title!
   There is no Sources title!
+2303/SkorospelovLA
+__
 Checking for directory "./2303/SkorospelovLA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -870,6 +940,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+2303/ZaborovskiyEV
+__
 Checking for directory "./2303/ZaborovskiyEV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -886,6 +958,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+2303/ManyashinDA
+__
 Checking for directory "./2303/ManyashinDA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
@@ -902,6 +976,8 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+2303/CherepanovEA
+__
 Checking for directory "./2303/CherepanovEA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
