@@ -1,0 +1,37 @@
+__
+Checking for directory "./4381/KarpuninSA"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory doesn't exist!
+Checking for fact_result.md
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	1046 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	91 symbols
+    research_object.md       ...	65 symbols
+    research_subject.md      ...	68 symbols
+    goal.md                  ...	157 symbols
+    tasks.md                 ...	222 symbols
+    relevance.md             ...	126 symbols
+  All files               ...	729 symbols
+  Number of symbols in purpose statement's        ...	Good.
+Checking for analogs.md
+ analogs.md               ...	Exists!
+    analogs.md               ...	2287 symbols
+  Number of symbols in analogs.md                 ...	Good.
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
+4381/KarpenkoDR

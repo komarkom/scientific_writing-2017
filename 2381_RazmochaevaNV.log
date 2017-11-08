@@ -1,0 +1,41 @@
+__
+Checking for directory "./2381/RazmochaevaNV"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory                ...	Exists!
+ .pdf files found:
+  neyronnye-seti-v-upravlenii-roznichnoy-torgovley.pdf
+  primenenie-metodov-iskusstvennogo-intellekta-dlya-analiza-i-prognoza-tovarooborota-roznichnogo-torgovogo-predpriyatiya.pdf
+  neyrosetevoe-modelirovanie-dinamiki-nelineynyh-sistem.pdf
+Checking for fact_result.md
+ fact_result.md           ...	does not exist!
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	131 symbols
+    research_object.md       ...	22 symbols
+    research_subject.md      ...	53 symbols
+    goal.md                  ...	109 symbols
+    tasks.md                 ...	556 symbols
+    relevance.md             ...	246 symbols
+  All files               ...	1117 symbols
+  Number of symbols in purpose statement's        ...	Good.
+Checking for analogs.md
+ analogs.md               ...	Exists!
+    analogs.md               ...	1397 symbols
+  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
+Checking for directory "./2303"
+ Directory                ...	Exists!
+2303/KozlovPV

@@ -1,0 +1,34 @@
+__
+Checking for directory "./2303/KozlovPV"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory doesn't exist!
+Checking for fact_result.md
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	Empty!
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	Empty!
+    research_object.md       ...	Empty!
+    research_subject.md      ...	Empty!
+    goal.md                  ...	52 symbols
+    tasks.md                 ...	Empty!
+    relevance.md             ...	Empty!
+  All files               ...	52 symbols
+  Number of symbols in purpose statement's        ...	Not enough. Min = 300
+Checking for analogs.md
+ analogs.md               ...	Exists!
+    analogs.md               ...	Empty!
+  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+  There is no Analogs title!
+  There is no Criterias title!
+  There is no Sources title!
+2303/SkorospelovLA

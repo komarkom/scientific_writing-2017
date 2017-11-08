@@ -1,0 +1,37 @@
+__
+Checking for directory "./2304/KuzminME"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory                ...	Exists!
+ .pdf files found:
+  full_report.pdf
+Checking for fact_result.md
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	815 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	230 symbols
+    research_object.md       ...	87 symbols
+    research_subject.md      ...	144 symbols
+    goal.md                  ...	103 symbols
+    tasks.md                 ...	372 symbols
+    relevance.md             ...	269 symbols
+  All files               ...	1205 symbols
+  Number of symbols in purpose statement's        ...	Good.
+Checking for analogs.md
+ analogs.md               ...	Exists!
+    analogs.md               ...	162 symbols
+  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+  There is no Analogs title!
+  There is no Criterias title!
+  Sources title!          ...	Exists!
+   Number of sources     ...	Not enough. Min = 1
+2304/LikhachevAA

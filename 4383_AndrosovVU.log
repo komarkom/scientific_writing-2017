@@ -1,0 +1,39 @@
+__
+Checking for directory "./4383/AndrosovVU"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory                ...	Exists!
+ .pdf files found:
+  mooc_descr.pdf
+  current_cources.pdf
+  selection_criteria.pdf
+Checking for fact_result.md
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	1198 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	242 symbols
+    research_object.md       ...	41 symbols
+    research_subject.md      ...	52 symbols
+    goal.md                  ...	53 symbols
+    tasks.md                 ...	224 symbols
+    relevance.md             ...	159 symbols
+  All files               ...	771 symbols
+  Number of symbols in purpose statement's        ...	Good.
+Checking for analogs.md
+ analogs.md               ...	Exists!
+    analogs.md               ...	3382 symbols
+  Number of symbols in analogs.md                 ...	Good.
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  There is no Criterias title!
+  There is no Sources title!
+4383/AkhmetshinaRR

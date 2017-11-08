@@ -1,0 +1,29 @@
+__
+Checking for directory "./6304/PutkovDA"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory doesn't exist!
+Checking for fact_result.md
+ fact_result.md           ...	does not exist!
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	107 symbols
+    research_object.md       ...	61 symbols
+    research_subject.md      ...	176 symbols
+    goal.md                  ...	173 symbols
+    tasks.md                 ...	218 symbols
+    relevance.md             ...	394 symbols
+  All files               ...	1129 symbols
+  Number of symbols in purpose statement's        ...	Good.
+Checking for analogs.md
+ analogs.md               ...	does not exist!
+Checking for directory "./3304"
+ Directory                ...	Exists!
+3304/BleesEI

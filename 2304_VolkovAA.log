@@ -1,0 +1,37 @@
+__
+Checking for directory "./2304/VolkovAA"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory                ...	Exists!
+ .pdf files found:
+  [Open Computer Science] Mining moving object data.pdf
+  review2b.pdf
+  Do_ISWC_2011.pdf
+  VisAware.pdf
+  cybersec2012-song.pdf
+  p65-fischer.pdf
+  EberleJASR11.pdf
+Checking for fact_result.md
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	253 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	93 symbols
+    research_object.md       ...	46 symbols
+    research_subject.md      ...	50 symbols
+    goal.md                  ...	107 symbols
+    tasks.md                 ...	291 symbols
+    relevance.md             ...	479 symbols
+  All files               ...	1066 symbols
+  Number of symbols in purpose statement's        ...	Good.
+Checking for analogs.md
+ analogs.md               ...	does not exist!
+2304/EfremovMA
