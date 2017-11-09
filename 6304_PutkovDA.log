@@ -25,7 +25,13 @@ Checking for purpose-statement files...
   All files               ...	1129 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	1683 symbols
+  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  There is no Criterias title!
+  There is no Sources title!
 Checking for directory "./3304"
  Directory                ...	Exists!
 3304/BleesEI
