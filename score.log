@@ -29,7 +29,9 @@ Checking for directory "./6304/PutkovDA"
 Checking /paper_base directory for .pdf files
  Directory doesn't exist!
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	1515 symbols
+  Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
      problem.md               ...	Exists!
      research_object.md       ...	Exists!
@@ -1038,7 +1040,7 @@ Checking for purpose-statement files...
 Checking for analogs.md
  analogs.md               ...	does not exist!
 ['PolushinaYI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['PutkovDA', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0']
+['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0']
 ['BleesEI', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '1']
 ['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KarpuninSA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
