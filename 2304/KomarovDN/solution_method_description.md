@@ -2,7 +2,7 @@
 
 В результате работы на решением, был разработан программный продукт, который представляет собой Web-приложение для создание рекламных видеороликов презентаций книг, общий вид представлен на рисунке 1. 
 
-![Главная страница](https://github.com/moevm/scientific_writing-2017/blob/master/2304/KomarovDN/images/Home_page.png)
+![Главная страница](https://github.com/moevm/scientific_writing-2017/blob/Komarov-D.N/2304/KomarovDN/image/Home_page.png)
 
 Выбор реализации решения в виде Web-приложения сделан по следующим причинам:
 
