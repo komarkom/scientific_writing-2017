@@ -13,7 +13,7 @@
 ### Основной функционал приложения
 
 #### Выбор шаблона видеоролика
-![Выбор шаблона](https://github.com/moevm/scientific_writing-2017/blob/master/2304/KomarovDN/images/templates.png)
+![Выбор шаблона](https://github.com/moevm/scientific_writing-2017/blob/Komarov-D.N/2304/KomarovDN/image/templates.png)
 
 На выбор пользователя представлены шаблоны видеороликов с возможностью предпросмотра. При выборе шаблона пользователь попадает на страницу редактирования.
 
@@ -28,9 +28,9 @@
 * Аудио сопровождение
 * Фон (изображение или видео)
 
-![Общие настройки 1](https://github.com/moevm/scientific_writing-2017/blob/master/2304/KomarovDN/images/custom1.png)
+![Общие настройки 1](https://github.com/moevm/scientific_writing-2017/blob/Komarov-D.N/2304/KomarovDN/image/custom1.png)
 
-![Общие настройки 2](https://github.com/moevm/scientific_writing-2017/blob/master/2304/KomarovDN/images/custom2.png)
+![Общие настройки 2](https://github.com/moevm/scientific_writing-2017/blob/Komarov-D.N/2304/KomarovDN/image/custom2.png)
  
  Для каждого фрагмента ролика так же настраиваются отдельно:
 * Текст в фрагменте
@@ -38,26 +38,26 @@
 	* Цвет
 * Изображения страниц
 
-![Настройка фрагмента](https://github.com/moevm/scientific_writing-2017/blob/master/2304/KomarovDN/images/custom3.png)
+![Настройка фрагмента](https://github.com/moevm/scientific_writing-2017/blob/Komarov-D.N/2304/KomarovDN/image/custom3.png)
 
 #### Предпросмотр
-![Предпросмотр](https://github.com/moevm/scientific_writing-2017/blob/master/2304/KomarovDN/images/custom4.png)
+![Предпросмотр](https://github.com/moevm/scientific_writing-2017/blob/Komarov-D.N/2304/KomarovDN/image/custom4.png)
 
 При завершениии редактирования фрагментов пользователю доступен для предпросмотра видеоролик, в котором используются все пользовательские настройки, текстуры, видео и аудио дорожки. 
 
 #### Страница заказа
 На странице заказа отображается главная информация о ролике, информация о статусе рендеринга и его настройках.
 
-![Информация о заказе](https://github.com/moevm/scientific_writing-2017/blob/master/2304/KomarovDN/images/order.png)
+![Информация о заказе](https://github.com/moevm/scientific_writing-2017/blob/Komarov-D.N/2304/KomarovDN/image/order.png)
 
 В личном кабинете пользователя доступны для просмотра, редактирования и скачивания все заказанные им ролики.
 
-![История заказов](https://github.com/moevm/scientific_writing-2017/blob/master/2304/KomarovDN/images/order_list.png)
+![История заказов](https://github.com/moevm/scientific_writing-2017/blob/Komarov-D.N/2304/KomarovDN/image/order_list.png)
 
 
 ### Архитектура программной реализации.
 
-![История заказов](https://github.com/moevm/scientific_writing-2017/blob/master/2304/KomarovDN/images/struct.png)	
+![История заказов](https://github.com/moevm/scientific_writing-2017/blob/Komarov-D.N/2304/KomarovDN/image/struct.png)	
 
 Решение реализовано как трехуровневое приложение, что поможгает достичь цели, позволяющей использовать ядро веб-сайта для предоставления услуг / функциональности другим сайтам.
 
