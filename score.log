@@ -910,8 +910,8 @@ Checking /paper_base directory for .pdf files
   neyrosetevoe-modelirovanie-dinamiki-nelineynyh-sistem.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	966 symbols
-  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+    fact_result.md           ...	1695 symbols
+  Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
      problem.md               ...	Exists!
      research_object.md       ...	Exists!
@@ -931,8 +931,8 @@ Checking for purpose-statement files...
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	1859 symbols
-  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+    analogs.md               ...	2605 symbols
+  Number of symbols in analogs.md                 ...	Good.
   Analogs title!          ...	Exists!
    Number of analogs     ...	Good.
   Criterias title!        ...	Exists!
@@ -1080,7 +1080,7 @@ Checking for analogs.md
 ['ChulanovAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['ZhangirovTR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['BudchanDS', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1']
-['RazmochaevaNV', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1']
+['RazmochaevaNV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
 ['KozlovPV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0']
 ['SkorospelovLA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['ZaborovskiyEV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
