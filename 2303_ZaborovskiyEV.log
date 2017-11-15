@@ -15,4 +15,10 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2303/ManyashinDA

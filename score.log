@@ -20,6 +20,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 Checking for directory "./6304"
  Directory                ...	Exists!
 6304/PutkovDA
@@ -57,6 +63,14 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   There is no Criterias title!
   There is no Sources title!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	1983 symbols
+  Number of symbols in solution_method_selection.md                   ...	Good.
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 Checking for directory "./3304"
  Directory                ...	Exists!
 3304/BleesEI
@@ -95,6 +109,12 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 3304/OsipovVG
 __
 Checking for directory "./3304/OsipovVG"
@@ -113,6 +133,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 Checking for directory "./4381"
  Directory                ...	Exists!
 4381/KarpuninSA
@@ -152,6 +178,12 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4381/KarpenkoDR
 __
 Checking for directory "./4381/KarpenkoDR"
@@ -189,6 +221,12 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4381/NikitinaEV
 __
 Checking for directory "./4381/NikitinaEV"
@@ -226,6 +264,12 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4381/LaptsevichDA
 __
 Checking for directory "./4381/LaptsevichDA"
@@ -244,6 +288,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 Checking for directory "./4383"
  Directory                ...	Exists!
 4383/KozlovskykhEB
@@ -264,6 +314,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4383/KhudiakovaDD
 __
 Checking for directory "./4383/KhudiakovaDD"
@@ -282,6 +338,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4383/KoptugAD
 __
 Checking for directory "./4383/KoptugAD"
@@ -300,6 +362,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4383/AleshinSV
 __
 Checking for directory "./4383/AleshinSV"
@@ -318,6 +386,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4383/RymarMI
 __
 Checking for directory "./4383/RymarMI"
@@ -336,6 +410,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4383/AndrosovVU
 __
 Checking for directory "./4383/AndrosovVU"
@@ -375,6 +455,12 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   There is no Criterias title!
   There is no Sources title!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4383/AkhmetshinaRR
 __
 Checking for directory "./4383/AkhmetshinaRR"
@@ -393,6 +479,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4383/GuschaVV
 __
 Checking for directory "./4383/GuschaVV"
@@ -411,6 +503,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4383/DronnikovIM
 __
 Checking for directory "./4383/DronnikovIM"
@@ -429,6 +527,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4383/GordeevaTV
 __
 Checking for directory "./4383/GordeevaTV"
@@ -447,6 +551,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 Checking for directory "./4382"
  Directory                ...	Exists!
 4382/LarionovDS
@@ -467,6 +577,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 4382/PerkovAS
 __
 Checking for directory "./4382/PerkovAS"
@@ -485,6 +601,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 Checking for directory "./2304"
  Directory                ...	Exists!
 2304/DanilovSV
@@ -528,6 +650,12 @@ Checking for analogs.md
   Criterias title!        ...	Exists!
    Number of analogs     ...	Good.
   There is no Sources title!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2304/ChaykaKV
 __
 Checking for directory "./2304/ChaykaKV"
@@ -569,6 +697,12 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2304/MikhaylovVV
 __
 Checking for directory "./2304/MikhaylovVV"
@@ -587,6 +721,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2304/VolkovAA
 __
 Checking for directory "./2304/VolkovAA"
@@ -624,6 +764,12 @@ Checking for purpose-statement files...
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2304/EfremovMA
 __
 Checking for directory "./2304/EfremovMA"
@@ -663,6 +809,12 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2304/KomarovDN
 __
 Checking for directory "./2304/KomarovDN"
@@ -705,6 +857,12 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2304/KlimukKP
 __
 Checking for directory "./2304/KlimukKP"
@@ -747,6 +905,12 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	Not enough. Min = 1
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2304/IshchenkoAP
 __
 Checking for directory "./2304/IshchenkoAP"
@@ -765,6 +929,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2304/KuzminME
 __
 Checking for directory "./2304/KuzminME"
@@ -802,6 +972,12 @@ Checking for analogs.md
   There is no Criterias title!
   Sources title!          ...	Exists!
    Number of sources     ...	Not enough. Min = 1
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2304/LikhachevAA
 __
 Checking for directory "./2304/LikhachevAA"
@@ -820,6 +996,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 Checking for directory "./2381"
  Directory                ...	Exists!
 2381/ChulanovAA
@@ -840,6 +1022,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2381/ZhangirovTR
 __
 Checking for directory "./2381/ZhangirovTR"
@@ -858,6 +1046,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2381/BudchanDS
 __
 Checking for directory "./2381/BudchanDS"
@@ -898,6 +1092,19 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	1256 symbols
+  Number of symbols in solution_method_selection.md                   ...	Good.
+Checking for solution_method_description.md
+ solution_method_description.md     ...	Exists!
+    solution_method_description.md...	3277 symbols
+  Number of symbols in solution_method_description.md                 ...	Good.
+  Description title!      ...	Exists!
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2381/RazmochaevaNV
 __
 Checking for directory "./2381/RazmochaevaNV"
@@ -939,6 +1146,12 @@ Checking for analogs.md
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 Checking for directory "./2303"
  Directory                ...	Exists!
 2303/KozlovPV
@@ -975,6 +1188,12 @@ Checking for analogs.md
   There is no Analogs title!
   There is no Criterias title!
   There is no Sources title!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2303/SkorospelovLA
 __
 Checking for directory "./2303/SkorospelovLA"
@@ -993,6 +1212,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2303/ZaborovskiyEV
 __
 Checking for directory "./2303/ZaborovskiyEV"
@@ -1011,6 +1236,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2303/ManyashinDA
 __
 Checking for directory "./2303/ManyashinDA"
@@ -1029,6 +1260,12 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 2303/CherepanovEA
 __
 Checking for directory "./2303/CherepanovEA"
@@ -1047,42 +1284,48 @@ Checking for purpose-statement files...
  Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
-['PolushinaYI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0']
-['BleesEI', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '1']
-['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KarpuninSA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
-['KarpenkoDR', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
-['NikitinaEV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
-['LaptsevichDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KozlovskykhEB', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KhudiakovaDD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KoptugAD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['AleshinSV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['RymarMI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['AndrosovVU', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0']
-['AkhmetshinaRR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['GuschaVV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['DronnikovIM', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['GordeevaTV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['LarionovDS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['PerkovAS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['DanilovSV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0']
-['ChaykaKV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1']
-['MikhaylovVV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['VolkovAA', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0']
-['EfremovMA', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
-['KomarovDN', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1']
-['KlimukKP', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0']
-['IshchenkoAP', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KuzminME', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0']
-['LikhachevAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['ChulanovAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['ZhangirovTR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['BudchanDS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
-['RazmochaevaNV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
-['KozlovPV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0']
-['SkorospelovLA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['ZaborovskiyEV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['ManyashinDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['CherepanovEA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+['PolushinaYI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0']
+['BleesEI', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
+['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KarpuninSA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
+['KarpenkoDR', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
+['NikitinaEV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
+['LaptsevichDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KozlovskykhEB', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KhudiakovaDD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KoptugAD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['AleshinSV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['RymarMI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['AndrosovVU', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['AkhmetshinaRR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['GuschaVV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['DronnikovIM', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['GordeevaTV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['LarionovDS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['PerkovAS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['DanilovSV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ChaykaKV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
+['MikhaylovVV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['VolkovAA', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['EfremovMA', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
+['KomarovDN', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
+['KlimukKP', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['IshchenkoAP', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KuzminME', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['LikhachevAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ChulanovAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ZhangirovTR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['BudchanDS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0']
+['RazmochaevaNV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
+['KozlovPV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['SkorospelovLA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ZaborovskiyEV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ManyashinDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['CherepanovEA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
