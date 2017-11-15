@@ -4,15 +4,26 @@ Checking for directory "./2381/ChulanovAA"
 Checking /paper_base directory for .pdf files
  Directory doesn't exist!
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	Empty!
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	Empty!
+    research_object.md       ...	Empty!
+    research_subject.md      ...	Empty!
+    goal.md                  ...	Empty!
+    tasks.md                 ...	Empty!
+    relevance.md             ...	Empty!
+  All files are empty!
+  Number of symbols in purpose statement's        ...	Not enough. Min = 300
 Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for solution_method_selection.md

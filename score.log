@@ -1011,15 +1011,26 @@ Checking for directory "./2381/ChulanovAA"
 Checking /paper_base directory for .pdf files
  Directory doesn't exist!
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	Empty!
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	Empty!
+    research_object.md       ...	Empty!
+    research_subject.md      ...	Empty!
+    goal.md                  ...	Empty!
+    tasks.md                 ...	Empty!
+    relevance.md             ...	Empty!
+  All files are empty!
+  Number of symbols in purpose statement's        ...	Not enough. Min = 300
 Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for solution_method_selection.md
@@ -1223,19 +1234,43 @@ __
 Checking for directory "./2303/ZaborovskiyEV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  Service Oriented Architecture with Java.pdf
+  akka-at-yandex.pdf
+  Evolve the Monolith to Microservices with Java and Node.pdf
+  E-References.pdf
+  microservices-for-java-developers.pdf
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	346 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	512 symbols
+    research_object.md       ...	64 symbols
+    research_subject.md      ...	84 symbols
+    goal.md                  ...	138 symbols
+    tasks.md                 ...	155 symbols
+    relevance.md             ...	721 symbols
+  All files               ...	1674 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	2184 symbols
+  Number of symbols in analogs.md                 ...	Good.
+  There is no Analogs title!
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	does not exist!
 Checking for solution_method_description.md
@@ -1320,12 +1355,12 @@ Checking for solution_method_evaluation.md
 ['IshchenkoAP', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KuzminME', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['LikhachevAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['ChulanovAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ChulanovAA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['ZhangirovTR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['BudchanDS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0']
 ['RazmochaevaNV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KozlovPV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['SkorospelovLA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['ZaborovskiyEV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ZaborovskiyEV', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
 ['ManyashinDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['CherepanovEA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
