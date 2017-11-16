@@ -839,17 +839,17 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	251 symbols
+    problem.md               ...	135 symbols
     research_object.md       ...	77 symbols
     research_subject.md      ...	115 symbols
     goal.md                  ...	106 symbols
     tasks.md                 ...	167 symbols
-    relevance.md             ...	150 symbols
-  All files               ...	866 symbols
+    relevance.md             ...	393 symbols
+  All files               ...	993 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	969 symbols
+    analogs.md               ...	1071 symbols
   Number of symbols in analogs.md                 ...	Not enough. Min = 2000
   Analogs title!          ...	Exists!
    Number of analogs     ...	Good.
@@ -858,11 +858,23 @@ Checking for analogs.md
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
- solution_method_selection.md       ...	does not exist!
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	1039 symbols
+  Number of symbols in solution_method_selection.md                   ...	Good.
 Checking for solution_method_description.md
- solution_method_description.md     ...	does not exist!
+ solution_method_description.md     ...	Exists!
+    solution_method_description.md...	4014 symbols
+  Number of symbols in solution_method_description.md                 ...	Good.
+  Description title!      ...	Exists!
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_evaluation.md
- solution_method_evaluation.md      ...	does not exist!
+ solution_method_evaluation.md      ...	Exists!
+    solution_method_evaluation.md...	2895 symbols
+  Number of symbols in solution_method_evaluation.md                  ...	Not enough. Min = 3000
+  Evaluation title!       ...	Exists!
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 2304/KlimukKP
 __
 Checking for directory "./2304/KlimukKP"
@@ -1350,7 +1362,7 @@ Checking for solution_method_evaluation.md
 ['MikhaylovVV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['VolkovAA', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['EfremovMA', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
-['KomarovDN', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
+['KomarovDN', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1']
 ['KlimukKP', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['IshchenkoAP', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KuzminME', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
