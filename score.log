@@ -68,7 +68,11 @@ Checking for solution_method_selection.md
     solution_method_selection.md...	1983 symbols
   Number of symbols in solution_method_selection.md                   ...	Good.
 Checking for solution_method_description.md
- solution_method_description.md     ...	does not exist!
+ solution_method_description.md     ...	Exists!
+    solution_method_description.md...	6267 symbols
+  Number of symbols in solution_method_description.md                 ...	Good.
+  There is no Description title!
+  There is no Sources title!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for directory "./3304"
@@ -1338,7 +1342,7 @@ Checking for solution_method_description.md
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 ['PolushinaYI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0']
+['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0']
 ['BleesEI', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
 ['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KarpuninSA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
