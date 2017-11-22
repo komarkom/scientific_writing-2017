@@ -20,26 +20,30 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	242 symbols
+    problem.md               ...	280 symbols
     research_object.md       ...	41 symbols
-    research_subject.md      ...	52 symbols
-    goal.md                  ...	53 symbols
+    research_subject.md      ...	45 symbols
+    goal.md                  ...	97 symbols
     tasks.md                 ...	224 symbols
-    relevance.md             ...	159 symbols
-  All files               ...	771 symbols
+    relevance.md             ...	407 symbols
+  All files               ...	1094 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	3382 symbols
+    analogs.md               ...	3775 symbols
   Number of symbols in analogs.md                 ...	Good.
   Analogs title!          ...	Exists!
    Number of analogs     ...	Good.
-  There is no Criterias title!
-  There is no Sources title!
-Checking for solution_method_selection.md
- solution_method_selection.md       ...	does not exist!
-Checking for solution_method_description.md
- solution_method_description.md     ...	does not exist!
-Checking for solution_method_evaluation.md
- solution_method_evaluation.md      ...	does not exist!
-4383/AkhmetshinaRR
+  Criterias title!        ...	Exists!
+Traceback (most recent call last):
+  File "/home/jenkins/SW_checking/md_check_scripts/checkRepo.py", line 459, in <module>
+    CheckRepo(repo_path)
+  File "/home/jenkins/SW_checking/md_check_scripts/checkRepo.py", line 28, in CheckRepo
+    CheckGroupDirectory(os.path.join(repoPath, subfolder))
+  File "/home/jenkins/SW_checking/md_check_scripts/checkRepo.py", line 40, in CheckGroupDirectory
+    CheckNamedDirectory(os.path.join(groupFolderPath, subfolder))            
+  File "/home/jenkins/SW_checking/md_check_scripts/checkRepo.py", line 55, in CheckNamedDirectory
+    CheckForAnalogs(nameFolderPath)
+  File "/home/jenkins/SW_checking/md_check_scripts/checkRepo.py", line 220, in CheckForAnalogs
+    nextNode = nextNode.find_next_sibling()
+AttributeError: 'NoneType' object has no attribute 'find_next_sibling'
