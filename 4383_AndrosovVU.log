@@ -35,15 +35,13 @@ Checking for analogs.md
   Analogs title!          ...	Exists!
    Number of analogs     ...	Good.
   Criterias title!        ...	Exists!
-Traceback (most recent call last):
-  File "/home/jenkins/SW_checking/md_check_scripts/checkRepo.py", line 459, in <module>
-    CheckRepo(repo_path)
-  File "/home/jenkins/SW_checking/md_check_scripts/checkRepo.py", line 28, in CheckRepo
-    CheckGroupDirectory(os.path.join(repoPath, subfolder))
-  File "/home/jenkins/SW_checking/md_check_scripts/checkRepo.py", line 40, in CheckGroupDirectory
-    CheckNamedDirectory(os.path.join(groupFolderPath, subfolder))            
-  File "/home/jenkins/SW_checking/md_check_scripts/checkRepo.py", line 55, in CheckNamedDirectory
-    CheckForAnalogs(nameFolderPath)
-  File "/home/jenkins/SW_checking/md_check_scripts/checkRepo.py", line 220, in CheckForAnalogs
-    nextNode = nextNode.find_next_sibling()
-AttributeError: 'NoneType' object has no attribute 'find_next_sibling'
+Parsing error!! Try to copy headers from another's files
+   Number of analogs     ...	Good.
+  There is no Sources title!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+4383/AkhmetshinaRR
