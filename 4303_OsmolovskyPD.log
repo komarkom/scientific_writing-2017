@@ -1,5 +1,5 @@
 __
-Checking for directory "./4303/PolushinaYI"
+Checking for directory "./4303/OsmolovskyPD"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
  Directory doesn't exist!
@@ -21,4 +21,6 @@ Checking for solution_method_description.md
  solution_method_description.md     ...	does not exist!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
-4303/OsmolovskyPD
+Checking for directory "./6304"
+ Directory                ...	Exists!
+6304/PutkovDA

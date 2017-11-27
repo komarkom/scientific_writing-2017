@@ -26,6 +26,30 @@ Checking for solution_method_description.md
  solution_method_description.md     ...	does not exist!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
+4303/OsmolovskyPD
+__
+Checking for directory "./4303/OsmolovskyPD"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory doesn't exist!
+Checking for fact_result.md
+ fact_result.md           ...	does not exist!
+Checking for purpose-statement files...
+     problem.md               ...	Doesn't exist!
+     research_object.md       ...	Doesn't exist!
+     research_subject.md      ...	Doesn't exist!
+     goal.md                  ...	Doesn't exist!
+     tasks.md                 ...	Doesn't exist!
+     relevance.md             ...	Doesn't exist!
+ Not all of required files exist!
+Checking for analogs.md
+ analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
 Checking for directory "./6304"
  Directory                ...	Exists!
 6304/PutkovDA
@@ -1353,6 +1377,7 @@ Checking for solution_method_description.md
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 ['PolushinaYI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['OsmolovskyPD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0']
 ['BleesEI', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
 ['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
