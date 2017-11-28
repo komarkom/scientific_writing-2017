@@ -51,6 +51,14 @@ Checking for solution_method_description.md
    Number of sources     ...	At least 1! Good!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
+Checking for conclusions.md
+ conclusions.md                     ...	Exists!
+    conclusions.md           ...	1162 symbols
+  Number of symbols in conclusions.md                                 ...	Good.
+Checking for abstract.md
+ abstract.md                        ...	Exists!
+    abstract.md              ...	665 symbols
+  Number of symbols in abstract.md                                    ...	Good.
 Checking for directory "./2303"
  Directory                ...	Exists!
 2303/KozlovPV
