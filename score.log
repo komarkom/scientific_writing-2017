@@ -416,6 +416,34 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+4383/KhafizovIM
+__
+Checking for directory "./4383/KhafizovIM"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory doesn't exist!
+Checking for fact_result.md
+ fact_result.md           ...	does not exist!
+Checking for purpose-statement files...
+     problem.md               ...	Doesn't exist!
+     research_object.md       ...	Doesn't exist!
+     research_subject.md      ...	Doesn't exist!
+     goal.md                  ...	Doesn't exist!
+     tasks.md                 ...	Doesn't exist!
+     relevance.md             ...	Doesn't exist!
+ Not all of required files exist!
+Checking for analogs.md
+ analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+Checking for conclusions.md
+ conclusions.md                     ...	does not exist!
+Checking for abstract.md
+ abstract.md                        ...	does not exist!
 4383/KoptugAD
 __
 Checking for directory "./4383/KoptugAD"
@@ -1555,6 +1583,7 @@ Checking for abstract.md
 ['LaptsevichDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KozlovskykhEB', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KhudiakovaDD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KhafizovIM', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KoptugAD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['AleshinSV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['RymarMI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
