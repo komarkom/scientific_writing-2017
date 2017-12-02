@@ -4,3 +4,6 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Forming_of_sign_gost_P34.10-2001.png/144px-Forming_of_sign_gost_P34.10-2001.png "Схема формирования ЭП")
 
 Схема проверки подписи:
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Checking_of_sign_gost_P34.10-2001.png/144px-Checking_of_sign_gost_P34.10-2001.png "Схема проверки подписи")
+
+Необходимо использовать именно этот алгоритм в связи со спецификой Государственной автоматизированной системы «Выборы».
