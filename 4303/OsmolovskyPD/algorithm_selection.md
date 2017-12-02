@@ -7,3 +7,7 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Checking_of_sign_gost_P34.10-2001.png/144px-Checking_of_sign_gost_P34.10-2001.png "Схема проверки подписи")
 
 Необходимо использовать именно этот алгоритм в связи со спецификой Государственной автоматизированной системы «Выборы».
+
+Источник: 
+http://www.altell.ru/legislation/standards/gost-34.10-2012.pdf
+https://ru.wikipedia.org/wiki/ГОСТ_Р_34.10-2012
