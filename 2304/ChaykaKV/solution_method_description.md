@@ -42,6 +42,9 @@ MoveIt имеет интеграцию с ROS и  не требует допол
 
 ## Источники
 https://groups.google.com/forum/#!forum/moveit-users
+
 http://tmkit.kavrakilab.org/usergroup0.html
+
 http://ompl.kavrakilab.org/OMPL_Primer.pdf
+
 https://gitlab.com/Simox/simox/wikis/home
