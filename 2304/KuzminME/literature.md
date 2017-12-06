@@ -1,6 +1,7 @@
-## Использованная литература
+## Список источников
 
-21.	Modern Multi Agent SLAM approaches survey - Krinkin Kirill, Filatov Anton, Filatov Artyom // URL: https://fruct.org/publications/abstract20/files/Kri.pdf
+1.	Simulataneous localization and mapping with the extended Kalman filter // URL: http://www.iri.upc.edu/people/jsola/JoanSola/objectes/curs_SLAM/SLAM2D/SLAM%20course.pdf
+14.	Algorithms for Simultaneous Localization and Mapping // URL: http://cseweb.ucsd.edu/~yuc007/documents/re_report.pdf
 22.	Extending SLAM to Multiple Robots // URL: http://web.mit.edu/16.412j/www/html/Final%20Projects/FIN_Novosad_Howe.pdf
 23.	Multi-robot SLAM with Unknown Initial Correspondence // URL: http://www-users.cs.umn.edu/~stergios/papers/IROS06-MapAlign.pdf
 24.	N. Ergin Ozkucur and H. Levent Akin, “Cooperative Multi-Robot Map Merging Using Fast-SLAM” // URL: https://www.researchgate.net/publication/220797575_Cooperative_Multi-robot_Map_Merging_Using_Fast-SLAM
