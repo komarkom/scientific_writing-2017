@@ -52,6 +52,12 @@ Checking for abstract.md
  abstract.md                        ...	Exists!
     abstract.md              ...	554 symbols
   Number of symbols in abstract.md                                    ...	Good.
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 Checking for directory "./3304"
  Directory                ...	Exists!
 3304/BleesEI

@@ -53,4 +53,10 @@ Checking for abstract.md
  abstract.md                        ...	Exists!
     abstract.md              ...	4 symbols
   Number of symbols in abstract.md                                    ...	Not enough. Min = 400
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2304/LikhachevAA

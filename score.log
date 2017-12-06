@@ -30,6 +30,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4303/OsmolovskyPD
 __
 Checking for directory "./4303/OsmolovskyPD"
@@ -58,6 +64,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 Checking for directory "./6304"
  Directory                ...	Exists!
 6304/PutkovDA
@@ -115,6 +127,12 @@ Checking for abstract.md
  abstract.md                        ...	Exists!
     abstract.md              ...	554 symbols
   Number of symbols in abstract.md                                    ...	Good.
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 Checking for directory "./3304"
  Directory                ...	Exists!
 3304/BleesEI
@@ -163,6 +181,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 3304/OsipovVG
 __
 Checking for directory "./3304/OsipovVG"
@@ -191,6 +215,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 Checking for directory "./4381"
  Directory                ...	Exists!
 4381/KarpuninSA
@@ -240,6 +270,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4381/KarpenkoDR
 __
 Checking for directory "./4381/KarpenkoDR"
@@ -287,6 +323,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4381/NikitinaEV
 __
 Checking for directory "./4381/NikitinaEV"
@@ -334,6 +376,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4381/LaptsevichDA
 __
 Checking for directory "./4381/LaptsevichDA"
@@ -362,6 +410,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 Checking for directory "./4383"
  Directory                ...	Exists!
 4383/KozlovskykhEB
@@ -373,13 +427,22 @@ Checking /paper_base directory for .pdf files
 Checking for fact_result.md
  fact_result.md           ...	does not exist!
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	Empty!
+    research_object.md       ...	Empty!
+    research_subject.md      ...	Empty!
+    goal.md                  ...	Empty!
+    tasks.md                 ...	Empty!
+    relevance.md             ...	Empty!
+  All files are empty!
+  Number of symbols in purpose statement's        ...	Not enough. Min = 300
 Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for solution_method_selection.md
@@ -392,6 +455,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4383/KhudiakovaDD
 __
 Checking for directory "./4383/KhudiakovaDD"
@@ -420,6 +489,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4383/KhafizovIM
 __
 Checking for directory "./4383/KhafizovIM"
@@ -448,6 +523,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4383/KoptugAD
 __
 Checking for directory "./4383/KoptugAD"
@@ -476,6 +557,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4383/AleshinSV
 __
 Checking for directory "./4383/AleshinSV"
@@ -504,6 +591,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4383/RymarMI
 __
 Checking for directory "./4383/RymarMI"
@@ -532,6 +625,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4383/AndrosovVU
 __
 Checking for directory "./4383/AndrosovVU"
@@ -583,6 +682,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4383/AkhmetshinaRR
 __
 Checking for directory "./4383/AkhmetshinaRR"
@@ -611,6 +716,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4383/GuschaVV
 __
 Checking for directory "./4383/GuschaVV"
@@ -639,6 +750,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4383/DronnikovIM
 __
 Checking for directory "./4383/DronnikovIM"
@@ -682,6 +799,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4383/GordeevaTV
 __
 Checking for directory "./4383/GordeevaTV"
@@ -710,6 +833,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 Checking for directory "./4382"
  Directory                ...	Exists!
 4382/LarionovDS
@@ -740,6 +869,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4382/PerkovAS
 __
 Checking for directory "./4382/PerkovAS"
@@ -768,6 +903,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 Checking for directory "./2304"
  Directory                ...	Exists!
 2304/DanilovSV
@@ -821,6 +962,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2304/ChaykaKV
 __
 Checking for directory "./2304/ChaykaKV"
@@ -879,6 +1026,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2304/MikhaylovVV
 __
 Checking for directory "./2304/MikhaylovVV"
@@ -907,6 +1060,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2304/VolkovAA
 __
 Checking for directory "./2304/VolkovAA"
@@ -954,6 +1113,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2304/EfremovMA
 __
 Checking for directory "./2304/EfremovMA"
@@ -1003,6 +1168,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2304/KomarovDN
 __
 Checking for directory "./2304/KomarovDN"
@@ -1071,6 +1242,12 @@ Checking for abstract.md
  abstract.md                        ...	Exists!
     abstract.md              ...	519 symbols
   Number of symbols in abstract.md                                    ...	Good.
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2304/KlimukKP
 __
 Checking for directory "./2304/KlimukKP"
@@ -1123,6 +1300,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2304/IshchenkoAP
 __
 Checking for directory "./2304/IshchenkoAP"
@@ -1151,6 +1334,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2304/KuzminME
 __
 Checking for directory "./2304/KuzminME"
@@ -1207,6 +1396,12 @@ Checking for abstract.md
  abstract.md                        ...	Exists!
     abstract.md              ...	4 symbols
   Number of symbols in abstract.md                                    ...	Not enough. Min = 400
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2304/LikhachevAA
 __
 Checking for directory "./2304/LikhachevAA"
@@ -1235,6 +1430,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 Checking for directory "./2381"
  Directory                ...	Exists!
 2381/ChulanovAA
@@ -1283,6 +1484,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2381/ZhangirovTR
 __
 Checking for directory "./2381/ZhangirovTR"
@@ -1311,6 +1518,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2381/BudchanDS
 __
 Checking for directory "./2381/BudchanDS"
@@ -1372,6 +1585,12 @@ Checking for abstract.md
  abstract.md                        ...	Exists!
     abstract.md              ...	652 symbols
   Number of symbols in abstract.md                                    ...	Good.
+Checking for paper.md
+ paper.md                           ...	Exists!
+Checking for paper.pdf
+ paper.pdf                          ...	Exists!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	Exists!
 2381/RazmochaevaNV
 __
 Checking for directory "./2381/RazmochaevaNV"
@@ -1434,6 +1653,12 @@ Checking for abstract.md
  abstract.md                        ...	Exists!
     abstract.md              ...	665 symbols
   Number of symbols in abstract.md                                    ...	Good.
+Checking for paper.md
+ paper.md                           ...	Exists!
+Checking for paper.pdf
+ paper.pdf                          ...	Exists!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	Exists!
 Checking for directory "./2303"
  Directory                ...	Exists!
 2303/KozlovPV
@@ -1480,6 +1705,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2303/SkorospelovLA
 __
 Checking for directory "./2303/SkorospelovLA"
@@ -1508,6 +1739,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2303/ZaborovskiyEV
 __
 Checking for directory "./2303/ZaborovskiyEV"
@@ -1560,6 +1797,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2303/ManyashinDA
 __
 Checking for directory "./2303/ManyashinDA"
@@ -1588,6 +1831,12 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2303/CherepanovEA
 __
 Checking for directory "./2303/CherepanovEA"
@@ -1616,44 +1865,50 @@ Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
  abstract.md                        ...	does not exist!
-['PolushinaYI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['OsmolovskyPD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1']
-['BleesEI', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KarpuninSA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KarpenkoDR', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['NikitinaEV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['LaptsevichDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KozlovskykhEB', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KhudiakovaDD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KhafizovIM', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KoptugAD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['AleshinSV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['RymarMI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['AndrosovVU', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['AkhmetshinaRR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['GuschaVV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['DronnikovIM', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['GordeevaTV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['LarionovDS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['PerkovAS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['DanilovSV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['ChaykaKV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
-['MikhaylovVV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['VolkovAA', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['EfremovMA', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KomarovDN', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1']
-['KlimukKP', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['IshchenkoAP', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KuzminME', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '0', '1', '0', '0', '0', '0', '0', '1', '1', '1', '0']
-['LikhachevAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['ChulanovAA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['ZhangirovTR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['BudchanDS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1']
-['RazmochaevaNV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1']
-['KozlovPV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['SkorospelovLA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['ZaborovskiyEV', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['ManyashinDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['CherepanovEA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
+['PolushinaYI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['OsmolovskyPD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', '0']
+['BleesEI', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KarpuninSA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KarpenkoDR', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['NikitinaEV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['LaptsevichDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KozlovskykhEB', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KhudiakovaDD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KhafizovIM', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KoptugAD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['AleshinSV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['RymarMI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['AndrosovVU', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['AkhmetshinaRR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['GuschaVV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['DronnikovIM', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['GordeevaTV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['LarionovDS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['PerkovAS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['DanilovSV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ChaykaKV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['MikhaylovVV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['VolkovAA', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['EfremovMA', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KomarovDN', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '0', '0', '0']
+['KlimukKP', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['IshchenkoAP', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KuzminME', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '0', '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '0', '0', '0']
+['LikhachevAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ChulanovAA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ZhangirovTR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['BudchanDS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
+['RazmochaevaNV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
+['KozlovPV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['SkorospelovLA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ZaborovskiyEV', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ManyashinDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['CherepanovEA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
