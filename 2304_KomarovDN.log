@@ -10,7 +10,7 @@ Checking /paper_base directory for .pdf files
   praktika_2_semestr.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	1282 symbols
+    fact_result.md           ...	1254 symbols
   Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
      problem.md               ...	Exists!
@@ -58,7 +58,11 @@ Checking for solution_method_evaluation.md
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
 Checking for conclusions.md
- conclusions.md                     ...	does not exist!
+ conclusions.md                     ...	Exists!
+    conclusions.md           ...	594 symbols
+  Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
- abstract.md                        ...	does not exist!
+ abstract.md                        ...	Exists!
+    abstract.md              ...	519 symbols
+  Number of symbols in abstract.md                                    ...	Good.
 2304/KlimukKP
