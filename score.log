@@ -430,19 +430,10 @@ Checking for purpose-statement files...
      problem.md               ...	Exists!
      research_object.md       ...	Exists!
      research_subject.md      ...	Exists!
-     goal.md                  ...	Exists!
+     goal.md                  ...	Doesn't exist!
      tasks.md                 ...	Exists!
      relevance.md             ...	Exists!
- All required files exist!
-  Counting symbols...
-    problem.md               ...	Empty!
-    research_object.md       ...	Empty!
-    research_subject.md      ...	Empty!
-    goal.md                  ...	Empty!
-    tasks.md                 ...	Empty!
-    relevance.md             ...	Empty!
-  All files are empty!
-  Number of symbols in purpose statement's        ...	Not enough. Min = 300
+ Not all of required files exist!
 Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for solution_method_selection.md
@@ -1880,7 +1871,7 @@ Checking for paper.docx/odt/tex
 ['KarpenkoDR', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['NikitinaEV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['LaptsevichDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['KozlovskykhEB', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['KozlovskykhEB', '0', '0', '0', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KhudiakovaDD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KhafizovIM', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KoptugAD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
