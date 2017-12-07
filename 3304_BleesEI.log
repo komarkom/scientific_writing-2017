@@ -2,10 +2,12 @@ __
 Checking for directory "./3304/BleesEI"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  demidova_a_k_posobie_po_russkomu_yazyku_nauchnyy_stil_rechi.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	849 symbols
+    fact_result.md           ...	478 symbols
   Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
      problem.md               ...	Exists!
@@ -16,33 +18,44 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	117 symbols
+    problem.md               ...	104 symbols
     research_object.md       ...	34 symbols
     research_subject.md      ...	133 symbols
-    goal.md                  ...	183 symbols
-    tasks.md                 ...	230 symbols
-    relevance.md             ...	220 symbols
-  All files               ...	917 symbols
+    goal.md                  ...	197 symbols
+    tasks.md                 ...	261 symbols
+    relevance.md             ...	284 symbols
+  All files               ...	1013 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	1192 symbols
-  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+    analogs.md               ...	2040 symbols
+  Number of symbols in analogs.md                 ...	Good.
   There is no Analogs title!
   Criterias title!        ...	Exists!
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
- solution_method_selection.md       ...	does not exist!
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	750 symbols
+  Number of symbols in solution_method_selection.md                   ...	Not enough. Min = 1000
 Checking for solution_method_description.md
- solution_method_description.md     ...	does not exist!
+ solution_method_description.md     ...	Exists!
+    solution_method_description.md...	2017 symbols
+  Number of symbols in solution_method_description.md                 ...	Not enough. Min = 3000
+  Description title!      ...	Exists!
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
- conclusions.md                     ...	does not exist!
+ conclusions.md                     ...	Exists!
+    conclusions.md           ...	324 symbols
+  Number of symbols in conclusions.md                                 ...	Not enough. Min = 500
 Checking for abstract.md
- abstract.md                        ...	does not exist!
+ abstract.md                        ...	Exists!
+    abstract.md              ...	377 symbols
+  Number of symbols in abstract.md                                    ...	Not enough. Min = 400
 Checking for paper.md
  paper.md                           ...	does not exist!
 Checking for paper.pdf
