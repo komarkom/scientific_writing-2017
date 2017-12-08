@@ -1461,17 +1461,17 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	168 symbols
+    problem.md               ...	63 symbols
     research_object.md       ...	67 symbols
     research_subject.md      ...	70 symbols
-    goal.md                  ...	121 symbols
+    goal.md                  ...	83 symbols
     tasks.md                 ...	381 symbols
-    relevance.md             ...	268 symbols
-  All files               ...	1075 symbols
+    relevance.md             ...	288 symbols
+  All files               ...	952 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	2482 symbols
+    analogs.md               ...	2740 symbols
   Number of symbols in analogs.md                 ...	Good.
   There is no Analogs title!
   Criterias title!        ...	Exists!
