@@ -365,3 +365,31 @@ process-specific events is in progress.
 
 ## References
 
+1) [man:syslogd] *A man entry for system logging utilities*.
+
+2) [man:proc] *A man entry for /proc pseudo-file system*, 12 2016.
+
+3) [LDD:2005] J. Corbet, A. Rubini, and G. Kroah-Hartman, *Linix Device Drivers*.
+O’Reilly Media, 2005.
+
+4) [man:dmesg] *A man entry for dmesg tool*, 07 2012.
+
+5) [rfc:5424] "The syslog protocol," Internet Request For Comments, RFC 5424, 03 2009.
+[Online]. Available: <https://tools.ietf.org/html/rfc5424>
+
+6) [Kerrisk:2010] M. Kerrisk, *The Linux Programming Interface*. No Starch Press, 2010.
+
+7) [ros:best-practices] Ros best practices. [Online]. Available:
+<https://github.com/ethz-asl/ros\_best\_practices/wiki>
+
+8) [rep:107] "Diagnostic system for robots running ros," REP 107, 10 2010. [Online].
+Available: <http://www.ros.org/reps/rep-0107.html>
+
+9) [man:ionotify] *A man entry for ionotify(...) API*, 09 2017.
+
+10) [manual:boost.python] *Boost.Python manual*, 08 2017. [Online]. Available:
+<http://www.boost.org/doc/libs/1\_65\_1/libs/python/doc/html/reference/index.html>
+
+11) [maunal:psutil] *psutil maunal*, 09 2017. [Online]. Available:
+<https://media.readthedocs.org/pdf/giamptest/latest/giamptest.pdf>
+
