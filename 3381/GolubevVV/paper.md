@@ -125,8 +125,7 @@ node state in ROS.
 
 ## Solution method selection
 
-Low profile
------------
+### Low profile
 
 Diagnostics system must be lightweight. There are two basic principles:
 
@@ -155,8 +154,7 @@ Finally, observing individual ROS node changes can be quite costly,
 because the number of individual system calls and IPC cases grows with
 the number of observed participants.
 
-Reactivity {#subsection:reactivity}
-----------
+### Reactivity {#subsection:reactivity}
 
 Reactivity is a key point in designing diagnostics tool. The reported
 events reflect system state changes. Briefly discussed in
@@ -185,8 +183,7 @@ because for such topics the events of interest vary from one system
 setup to other. This also leads us to the question of flexibility and
 configuration.
 
-Flexibility
------------
+### Flexibility
 
 The last topic raised in \[subsection:reactivity\] leads to the
 important question: “How to implement a diagnostics system, which is
@@ -197,8 +194,7 @@ Moreover, it’s unclear how to optimally organize the system features. It
 must be possible for user to switch features on and off depending on her
 demands. To avoid unnecessary *sysfs* polling overhead, for example.
 
-Portability
------------
+### Portability
 
 In this context portability is denoted by platform independence. This is
 somewhat unimportant, considering how highly ROS is Linux-dependent.
@@ -210,8 +206,7 @@ platform-independent tools.
 
 ## Solution method description
 
-Strategy
---------
+### Strategy
 
 Ideally, a tool would subscribe to the desired set of system events and
 report those accordingly, following ROS reactive workflow. However, this
@@ -226,8 +221,7 @@ no changes, until client requests current state [@LDD:2005]. This leads
 to the conclusion, that most kernel changes can be observed only by
 *sysfs* polling.
 
-Interfaces
-----------
+### Interfaces
 
 First of all, as was already discussed in \[section:alternatives\], ROS
 ecosystem provides a standard topic for system diagnostics - the
@@ -289,8 +283,7 @@ The level is enumerated in *DiagnosticStatus*. *uint32* is chosen for
 pid, because, according to [@man:proc], pid values must wrap around
 (which denotes their unsigned nature), and `PID_MAX_LIMIT` is $2^{22}$.
 
-Configuration
--------------
+### Configuration
 
 Polling method requires some user-defined value of idle time interval.
 This value is setup-specific, so some common configuration mechanism
@@ -301,8 +294,7 @@ Those may be overriden by *roslaunch*. Poll interval is not the only
 configurable value. Critical memory level, swap consumption rate, high
 file descriptor count are among the others.
 
-Grouping
---------
+### Grouping
 
 The events are to be grouped by nodes based on their subject. Those are:
 
@@ -316,8 +308,7 @@ The events are to be grouped by nodes based on their subject. Those are:
 
 -   System-wide process monitor
 
-Language and backend
---------------------
+### Language and backend
 
 The language of choice would be *Python*, and, in case its ecosystem
 would fail to provide ready-made solutions, suitable for specific
@@ -329,8 +320,7 @@ containts the utilities suitable to cover the basic needs (both
 system-wide and process-specific) [@manual:psutil]. The implementation
 portability property is also derived from *psutil*, which is favourable.
 
-ROS-specific tools
-------------------
+### ROS-specific tools
 
 Since the */diagnostics* stack is used, it’s reasonable to integrate
 with *diagnostics\_updater* package, described in [@rep:107] and
