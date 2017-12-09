@@ -36,7 +36,8 @@ there. Thore are:
 
 It goes without saying, that messages, pushed to diagnostics topic, must
 be packaged in standard *DiagnosticArray* type to be usable, for
-example, for *rqt\_runtime\_monitor*.\
+example, for *rqt\_runtime\_monitor*.
+
 Individual process monitors should provide separate interfaces, because
 pushing process events to */diagnostics* topic would pollute it and make
 operator unable to detect valuable system changes in a timely manner.
@@ -109,7 +110,8 @@ Language and backend
 The language of choice would be *Python*, and, in case its ecosystem
 would fail to provide ready-made solutions, suitable for specific
 subject monitoring, the implementation would fallback to *C++* through
-*Boost.Python* [@manual:boost.python] (or to a pure *C++* node).\
+*Boost.Python* [@manual:boost.python] (or to a pure *C++* node).
+
 On the higher level, the implementation uses *psutil* framework. It
 containts the utilities suitable to cover the basic needs (both
 system-wide and process-specific) [@manual:psutil]. The implementation

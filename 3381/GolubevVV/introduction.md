@@ -13,7 +13,8 @@ observation purposes - the collection of logs from different sources is
 being constructed in the correct chronological order. For the sake of
 deferred examination *syslog*, */proc/kmsg* and its clients employ
 timestamps [@rfc:5424], which is a common practice for mechanisms of
-this sort.\
+this sort.
+
 Not all system information stack can equally provide reactivity, but
 this can be emulated (poorly sometimes). For example, Linux provides the
 ability for user to poll current memory state through */proc*
@@ -23,7 +24,8 @@ page swapping. The reason for this is that the techniques for monitoring
 memory state vary greatly from user to user. For example, there is no
 absolute **very high** value of memory consumption increase - this
 depends on a concrete Linux setup. In other words, this is a high-level
-functionality, a delicately tuneable one.\
+functionality, a delicately tuneable one.
+
 ROS is a highly reactive ecosystem - it’s based on message passing,
 publisher-subscriber paradigm. However, as will be shown later in this
 text, there is currently no decent reactive system monitor - a tool
