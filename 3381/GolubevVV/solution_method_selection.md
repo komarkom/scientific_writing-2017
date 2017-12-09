@@ -80,3 +80,9 @@ ROS-independent package, which will later be wrapped using ROS-specific
 tools, for code reuse reasons. Considering this guideline, it’s
 favourable to produce original (non-wrapped) package using
 platform-independent tools.
+
+## References
+
+1) [ros:best-practices] Ros best practices. [Online]. Available:
+<https://github.com/ethz-asl/ros\_best\_practices/wiki>
+

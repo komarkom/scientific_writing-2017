@@ -125,3 +125,24 @@ with *diagnostics\_updater* package, described in [@rep:107] and
 <http://wiki.ros.org/diagnostic_updater>. This package encapsulates all
 the boilerplate, associated with filling out *DiagnosticArray*
 structures and pushing data to */diagnostics*.
+
+## References
+
+1) [Kerrisk:2010] M. Kerrisk, *The Linux Programming Interface*. No Starch Press, 2010.
+
+2) [man:ionotify] *A man entry for ionotify(...) API*, 09 2017.
+
+3) [LDD:2005] J. Corbet, A. Rubini, and G. Kroah-Hartman, *Linix Device Drivers*.
+O’Reilly Media, 2005.
+
+4) [rep:107] "Diagnostic system for robots running ros," REP 107, 10 2010. [Online].
+Available: <http://www.ros.org/reps/rep-0107.html>
+
+5) [man:proc] *A man entry for /proc pseudo-file system*, 12 2016.
+
+6) [manual:boost.python] *Boost.Python manual*, 08 2017. [Online]. Available:
+<http://www.boost.org/doc/libs/1\_65\_1/libs/python/doc/html/reference/index.html>
+
+7) [maunal:psutil] *psutil maunal*, 09 2017. [Online]. Available:
+<https://media.readthedocs.org/pdf/giamptest/latest/giamptest.pdf>
+
