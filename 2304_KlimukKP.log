@@ -21,38 +21,48 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	364 symbols
+    problem.md               ...	48 symbols
     research_object.md       ...	36 symbols
     research_subject.md      ...	77 symbols
     goal.md                  ...	86 symbols
     tasks.md                 ...	194 symbols
-    relevance.md             ...	489 symbols
-  All files               ...	1246 symbols
+    relevance.md             ...	695 symbols
+  All files               ...	1136 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	1716 symbols
+    analogs.md               ...	1734 symbols
   Number of symbols in analogs.md                 ...	Not enough. Min = 2000
   Analogs title!          ...	Exists!
    Number of analogs     ...	Good.
   Criterias title!        ...	Exists!
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
-   Number of sources     ...	Not enough. Min = 1
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
- solution_method_selection.md       ...	does not exist!
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	1417 symbols
+  Number of symbols in solution_method_selection.md                   ...	Good.
 Checking for solution_method_description.md
- solution_method_description.md     ...	does not exist!
+ solution_method_description.md     ...	Exists!
+    solution_method_description.md...	4903 symbols
+  Number of symbols in solution_method_description.md                 ...	Good.
+  There is no Description title!
+  There is no Sources title!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
- conclusions.md                     ...	does not exist!
+ conclusions.md                     ...	Exists!
+    conclusions.md           ...	773 symbols
+  Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
- abstract.md                        ...	does not exist!
+ abstract.md                        ...	Exists!
+    abstract.md              ...	639 symbols
+  Number of symbols in abstract.md                                    ...	Good.
 Checking for paper.md
- paper.md                           ...	does not exist!
+ paper.md                           ...	Exists!
 Checking for paper.pdf
- paper.pdf                          ...	does not exist!
+ paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
- paper.docx/odt/tex                 ...	does not exist!
+ paper.docx/odt/tex                 ...	Exists!
 2304/IshchenkoAP
