@@ -1,8 +1,10 @@
 __
-Checking for directory "./4381/LaptsevichDA"
+Checking for directory "./4381/MarushakJV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  Процессы ЖЦ.pdf
 Checking for fact_result.md
  fact_result.md           ...	does not exist!
 Checking for purpose-statement files...
@@ -31,4 +33,6 @@ Checking for paper.pdf
  paper.pdf                          ...	does not exist!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	does not exist!
-4381/MarushakJV
+Checking for directory "./4383"
+ Directory                ...	Exists!
+4383/KozlovskykhEB
