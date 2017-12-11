@@ -117,7 +117,7 @@ TF-IDF(q, d) — мера релевантности документа d зап
 Разработанное приложение позволяет поддерживать до 1600 одновременных обращений пользователей при использовании кластера из 10 серверов. Дальнейшая работа будет направлена на улучшение показателей качества модели и общей производительности приложения.
 
 ## Источники
-[1] https://github.com/moevm/scientific_writing-2017/blob/DanilovSV/2304/DanilovSV/paper_base/ranking.pdf 
-[2] Gondek D. C. (2012). A framework for merging and ranking of answers in DeepQA. D. C. Gondek, A. Lally, A. Kalyanpur, J. W. Murdock, P. A. Duboue, L. Zhang, Y. Pan, Z. M. Qiu, C. Welty. IBM J. Res. & Dev., vol. 56, no. 3/4, Paper 14.
-[3] J. W. Murdock, J. Fan, A. Lally, H. Shima, and B. K. Boguraev, "Textual evidence gathering and analysis," IBM J. Res. & Dev., vol. 56, no. 3/4, Paper 8, pp. 8:1–8:14, May/Jul. 2012.
-[4] Yih, W. (2009). Learning term-weighting functions for similarity measures. Wen-tau Yih, D09-1083.
+[1] https://github.com/moevm/scientific_writing-2017/blob/DanilovSV/2304/DanilovSV/paper_base/ranking.pdf  
+[2] Gondek D. C. (2012). A framework for merging and ranking of answers in DeepQA. D. C. Gondek, A. Lally, A. Kalyanpur, J. W. Murdock, P. A. Duboue, L. Zhang, Y. Pan, Z. M. Qiu, C. Welty. IBM J. Res. & Dev., vol. 56, no. 3/4, Paper 14.  
+[3] J. W. Murdock, J. Fan, A. Lally, H. Shima, and B. K. Boguraev, "Textual evidence gathering and analysis," IBM J. Res. & Dev., vol. 56, no. 3/4, Paper 8, pp. 8:1–8:14, May/Jul. 2012.  
+[4] Yih, W. (2009). Learning term-weighting functions for similarity measures. Wen-tau Yih, D09-1083.  
