@@ -1170,8 +1170,7 @@ Checking for directory "./2304/EfremovMA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
  Directory                ...	Exists!
- .pdf files found:
-  [Robotics Middleware: A Comprehensive Literature Survey and Attribute-Based Bibliography][Ayssam Elkady and Tarek Sobh].pdf
+  No .pdf files!
 Checking for fact_result.md
  fact_result.md           ...	Exists!
     fact_result.md           ...	1880 symbols
@@ -2037,6 +2036,61 @@ Checking for paper.pdf
  paper.pdf                          ...	does not exist!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	does not exist!
+2303/MokretsovRM
+__
+Checking for directory "./2303/MokretsovRM"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory                ...	Exists!
+ .pdf files found:
+  DLA_2014_Keynote_Doellner.pdf
+  Статья для конференции.pdf
+  Visualization of multi-resolution spatial data in mobile system.pdf
+  PubDat_194336df.pdf
+Checking for fact_result.md
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	1067 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	88 symbols
+    research_object.md       ...	47 symbols
+    research_subject.md      ...	107 symbols
+    goal.md                  ...	102 symbols
+    tasks.md                 ...	203 symbols
+    relevance.md             ...	1 symbols
+  All files               ...	548 symbols
+  Number of symbols in purpose statement's        ...	Good.
+Checking for analogs.md
+ analogs.md               ...	Exists!
+    analogs.md               ...	2107 symbols
+  Number of symbols in analogs.md                 ...	Good.
+  There is no Analogs title!
+  There is no Criterias title!
+  There is no Sources title!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+Checking for conclusions.md
+ conclusions.md                     ...	does not exist!
+Checking for abstract.md
+ abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 ['PolushinaYI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['OsmolovskyPD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', '0']
@@ -2064,7 +2118,7 @@ Checking for paper.docx/odt/tex
 ['ChaykaKV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['MikhaylovVV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['VolkovAA', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['EfremovMA', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['EfremovMA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KomarovDN', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1']
 ['KlimukKP', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['IshchenkoAP', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
@@ -2081,3 +2135,4 @@ Checking for paper.docx/odt/tex
 ['ManyashinDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['CherepanovEA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['Kanushin_MS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '0', '0', '0']
+['MokretsovRM', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
