@@ -7,7 +7,7 @@ Checking /paper_base directory for .pdf files
   full_report.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	693 symbols
+    fact_result.md           ...	943 symbols
   Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
      problem.md               ...	Exists!
@@ -18,45 +18,45 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	204 symbols
+    problem.md               ...	231 symbols
     research_object.md       ...	86 symbols
     research_subject.md      ...	135 symbols
-    goal.md                  ...	93 symbols
-    tasks.md                 ...	368 symbols
-    relevance.md             ...	400 symbols
-  All files               ...	1286 symbols
+    goal.md                  ...	92 symbols
+    tasks.md                 ...	433 symbols
+    relevance.md             ...	569 symbols
+  All files               ...	1546 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	7548 symbols
+    analogs.md               ...	7781 symbols
   Number of symbols in analogs.md                 ...	Good.
   There is no Analogs title!
   There is no Criterias title!
   There is no Sources title!
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	Exists!
-    solution_method_selection.md...	649 symbols
+    solution_method_selection.md...	716 symbols
   Number of symbols in solution_method_selection.md                   ...	Not enough. Min = 1000
 Checking for solution_method_description.md
  solution_method_description.md     ...	Exists!
-    solution_method_description.md...	2804 symbols
-  Number of symbols in solution_method_description.md                 ...	Not enough. Min = 3000
+    solution_method_description.md...	3495 symbols
+  Number of symbols in solution_method_description.md                 ...	Good.
   There is no Description title!
   There is no Sources title!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
  conclusions.md                     ...	Exists!
-    conclusions.md           ...	2256 symbols
+    conclusions.md           ...	2208 symbols
   Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
  abstract.md                        ...	Exists!
-    abstract.md              ...	4 symbols
-  Number of symbols in abstract.md                                    ...	Not enough. Min = 400
+    abstract.md              ...	656 symbols
+  Number of symbols in abstract.md                                    ...	Good.
 Checking for paper.md
- paper.md                           ...	does not exist!
+ paper.md                           ...	Exists!
 Checking for paper.pdf
- paper.pdf                          ...	does not exist!
+ paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
- paper.docx/odt/tex                 ...	does not exist!
+ paper.docx/odt/tex                 ...	Exists!
 2304/LikhachevAA
