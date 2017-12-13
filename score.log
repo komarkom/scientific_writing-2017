@@ -1641,6 +1641,64 @@ Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	does not exist!
 Checking for directory "./2381"
  Directory                ...	Exists!
+2381/AlekseevichAS
+__
+Checking for directory "./2381/AlekseevichAS"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory                ...	Exists!
+ .pdf files found:
+  rybin_sv_sintez_rechi_uchebnoe_posobie_2014.pdf
+  Maass_suffix_trees_and_their_appliactions.pdf
+  Hunt-Black_1996_a.pdf
+  Vasarhelyi_SuffixTrees_and_their_applications.pdf
+Checking for fact_result.md
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	1274 symbols
+  Number of symbols in fact_result.md             ...	Good.
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	58 symbols
+    research_object.md       ...	75 symbols
+    research_subject.md      ...	83 symbols
+    goal.md                  ...	117 symbols
+    tasks.md                 ...	372 symbols
+    relevance.md             ...	448 symbols
+  All files               ...	1153 symbols
+  Number of symbols in purpose statement's        ...	Good.
+Checking for analogs.md
+ analogs.md               ...	Exists!
+    analogs.md               ...	1884 symbols
+  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+Checking for conclusions.md
+ conclusions.md                     ...	does not exist!
+Checking for abstract.md
+ abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2381/ChulanovAA
 __
 Checking for directory "./2381/ChulanovAA"
@@ -2221,6 +2279,7 @@ Checking for paper.docx/odt/tex
 ['LikhachevAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['SuchkovAI', '0', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '1', '0', '1', '0', '0', '0', '0', '0', '1', '0', '1', '0', '0', '0', '0']
 ['GolubevVV', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', '0']
+['AlekseevichAS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['ChulanovAA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['ZhangirovTR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['BudchanDS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
