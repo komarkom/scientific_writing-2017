@@ -1738,7 +1738,12 @@ __
 Checking for directory "./2381/ChulanovAA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  492.pdf
+  MGSS_04.pdf
+  ISMIR_2008_Combining.pdf
+  tzanetakis.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
     fact_result.md           ...	1276 symbols
@@ -1783,9 +1788,13 @@ Checking for solution_method_description.md
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
- conclusions.md                     ...	does not exist!
+ conclusions.md                     ...	Exists!
+    conclusions.md           ...	867 symbols
+  Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
- abstract.md                        ...	does not exist!
+ abstract.md                        ...	Exists!
+    abstract.md              ...	702 symbols
+  Number of symbols in abstract.md                                    ...	Good.
 Checking for paper.md
  paper.md                           ...	does not exist!
 Checking for paper.pdf
@@ -2339,7 +2348,7 @@ Checking for paper.docx/odt/tex
 ['GolubevVV', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', '0']
 ['GrunyashinAS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['AlekseevichAS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['ChulanovAA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ChulanovAA', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '0', '0', '0']
 ['ZhangirovTR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['BudchanDS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['RazmochaevaNV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
