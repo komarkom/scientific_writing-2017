@@ -1981,17 +1981,36 @@ Checking for directory "./2303/SkorospelovLA"
 Checking /paper_base directory for .pdf files
  Directory doesn't exist!
 Checking for fact_result.md
- fact_result.md           ...	does not exist!
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	1388 symbols
+  Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	222 symbols
+    research_object.md       ...	55 symbols
+    research_subject.md      ...	81 symbols
+    goal.md                  ...	61 symbols
+    tasks.md                 ...	287 symbols
+    relevance.md             ...	442 symbols
+  All files               ...	1148 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	3383 symbols
+  Number of symbols in analogs.md                 ...	Good.
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	Not enough. Min = 1
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	does not exist!
 Checking for solution_method_description.md
@@ -2285,7 +2304,7 @@ Checking for paper.docx/odt/tex
 ['BudchanDS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['RazmochaevaNV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['KozlovPV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['SkorospelovLA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['SkorospelovLA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['ZaborovskiyEV', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['ManyashinDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['CherepanovEA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
