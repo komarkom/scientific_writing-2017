@@ -39,14 +39,14 @@
 
 ## Источники
 
-[1] - Pandora Radio. 13.12.2017, URL: https://en.wikipedia.org/wiki/Pandora_Radio
-[2] - The Best Music Services Compared. 02.01.2014, URL: http://www.techlicious.com/guide/best-music-service-best-for-you/
-[3] - About Pandora. 29.12.2014, URL: http://www.pandora.com/about
-[4] - Pandora no longer available in Australia... 12.09.2017, URL: http://help.pandora.com/customer/portal/articles/2830912
-[5] - Ever Wonder How Spotify Discover Weekly Works? Data Science. 14.12.2017, URL: http://blog.galvanize.com/spotify-discover-weekly-data-science/
-[6] - Годовой отчёт Mail.Ru Group Limited. 28.04.2017, URL: https://corp.mail.ru/ru/mobile/releases/9967/
-[7] - Всё об аудиозаписях "Вконтакте". 14.12.2017, URL: https://vk.com/page-2158488_47218044
-[8] - Recommender system. 13.12.2017, URL: https://en.wikipedia.org/wiki/Recommender_system
-[9] - Adomavicius, G.; Tuzhilin, A. (June 2005). "Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions". IEEE Transactions on Knowledge and Data Engineering. 17 (6): 734–749. doi:10.1109/TKDE.2005.99
-[10] - Коллаборативная фильтрация. 13.12.2017, URL: https://ru.wikipedia.org/wiki/Коллаборативная_фильтрация
-[11] - Melville P., Mooney R., Nagarajan R. Content-Boosted Collaborative Filtering for Improved Recommendations (англ.) // University of Texas, USA : Материалы конф. / AAAI-02, Austin, TX, USA, 2002. — 2002. — P. 187-192.
+1. Pandora Radio. 13.12.2017, URL: https://en.wikipedia.org/wiki/Pandora_Radio
+2. The Best Music Services Compared. 02.01.2014, URL: http://www.techlicious.com/guide/best-music-service-best-for-you/
+3. About Pandora. 29.12.2014, URL: http://www.pandora.com/about
+4. Pandora no longer available in Australia... 12.09.2017, URL: http://help.pandora.com/customer/portal/articles/2830912
+5. Ever Wonder How Spotify Discover Weekly Works? Data Science. 14.12.2017, URL: http://blog.galvanize.com/spotify-discover-weekly-data-science/
+6. Годовой отчёт Mail.Ru Group Limited. 28.04.2017, URL: https://corp.mail.ru/ru/mobile/releases/9967/
+7. Всё об аудиозаписях "Вконтакте". 14.12.2017, URL: https://vk.com/page-2158488_47218044
+8. Recommender system. 13.12.2017, URL: https://en.wikipedia.org/wiki/Recommender_system
+9. Adomavicius, G.; Tuzhilin, A. (June 2005). "Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions". IEEE Transactions on Knowledge and Data Engineering. 17 (6): 734–749. doi:10.1109/TKDE.2005.99
+10. Коллаборативная фильтрация. 13.12.2017, URL: https://ru.wikipedia.org/wiki/Коллаборативная_фильтрация
+11. Melville P., Mooney R., Nagarajan R. Content-Boosted Collaborative Filtering for Improved Recommendations (англ.) // University of Texas, USA : Материалы конф. / AAAI-02, Austin, TX, USA, 2002. — 2002. — P. 187-192.
