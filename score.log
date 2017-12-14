@@ -2003,14 +2003,14 @@ Checking for purpose-statement files...
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	3383 symbols
+    analogs.md               ...	3327 symbols
   Number of symbols in analogs.md                 ...	Good.
   Analogs title!          ...	Exists!
    Number of analogs     ...	Good.
   Criterias title!        ...	Exists!
    Number of analogs     ...	Good.
   Sources title!          ...	Exists!
-   Number of sources     ...	Not enough. Min = 1
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	does not exist!
 Checking for solution_method_description.md
@@ -2304,7 +2304,7 @@ Checking for paper.docx/odt/tex
 ['BudchanDS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['RazmochaevaNV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['KozlovPV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['SkorospelovLA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['SkorospelovLA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['ZaborovskiyEV', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['ManyashinDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['CherepanovEA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
