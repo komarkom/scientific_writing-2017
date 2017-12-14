@@ -145,7 +145,7 @@ Checking /paper_base directory for .pdf files
   demidova_a_k_posobie_po_russkomu_yazyku_nauchnyy_stil_rechi.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	478 symbols
+    fact_result.md           ...	561 symbols
   Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
      problem.md               ...	Exists!
@@ -175,11 +175,11 @@ Checking for analogs.md
    Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	Exists!
-    solution_method_selection.md...	750 symbols
+    solution_method_selection.md...	975 symbols
   Number of symbols in solution_method_selection.md                   ...	Not enough. Min = 1000
 Checking for solution_method_description.md
  solution_method_description.md     ...	Exists!
-    solution_method_description.md...	2017 symbols
+    solution_method_description.md...	2195 symbols
   Number of symbols in solution_method_description.md                 ...	Not enough. Min = 3000
   Description title!      ...	Exists!
   Sources title!          ...	Exists!
@@ -188,11 +188,11 @@ Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
  conclusions.md                     ...	Exists!
-    conclusions.md           ...	324 symbols
-  Number of symbols in conclusions.md                                 ...	Not enough. Min = 500
+    conclusions.md           ...	708 symbols
+  Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
  abstract.md                        ...	Exists!
-    abstract.md              ...	377 symbols
+    abstract.md              ...	323 symbols
   Number of symbols in abstract.md                                    ...	Not enough. Min = 400
 Checking for paper.md
  paper.md                           ...	Exists!
@@ -2305,7 +2305,7 @@ Checking for paper.docx/odt/tex
 ['PolushinaYI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['OsmolovskyPD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', '0']
-['BleesEI', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '1', '0', '1', '0', '0', '0', '1', '0', '1', '0', '1', '1', '1']
+['BleesEI', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '1', '0', '1', '0', '0', '0', '1', '1', '1', '0', '1', '1', '1']
 ['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KarpuninSA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0']
 ['KarpenkoDR', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0']
