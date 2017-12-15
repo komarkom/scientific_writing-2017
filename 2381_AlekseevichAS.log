@@ -6,6 +6,7 @@ Checking /paper_base directory for .pdf files
  .pdf files found:
   rybin_sv_sintez_rechi_uchebnoe_posobie_2014.pdf
   Maass_suffix_trees_and_their_appliactions.pdf
+  gibridnaya-tehnologiya-sinteza-rechi-na-osnove-skrytyh-markovskih-modeley-i-algoritma-unit-selection.pdf
   Hunt-Black_1996_a.pdf
   Vasarhelyi_SuffixTrees_and_their_applications.pdf
 Checking for fact_result.md
@@ -31,8 +32,8 @@ Checking for purpose-statement files...
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	1884 symbols
-  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+    analogs.md               ...	2028 symbols
+  Number of symbols in analogs.md                 ...	Good.
   Analogs title!          ...	Exists!
    Number of analogs     ...	Good.
   Criterias title!        ...	Exists!
@@ -40,19 +41,30 @@ Checking for analogs.md
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
- solution_method_selection.md       ...	does not exist!
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	1547 symbols
+  Number of symbols in solution_method_selection.md                   ...	Good.
 Checking for solution_method_description.md
- solution_method_description.md     ...	does not exist!
+ solution_method_description.md     ...	Exists!
+    solution_method_description.md...	4340 symbols
+  Number of symbols in solution_method_description.md                 ...	Good.
+  There is no Description title!
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
- conclusions.md                     ...	does not exist!
+ conclusions.md                     ...	Exists!
+    conclusions.md           ...	706 symbols
+  Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
- abstract.md                        ...	does not exist!
+ abstract.md                        ...	Exists!
+    abstract.md              ...	478 symbols
+  Number of symbols in abstract.md                                    ...	Good.
 Checking for paper.md
- paper.md                           ...	does not exist!
+ paper.md                           ...	Exists!
 Checking for paper.pdf
- paper.pdf                          ...	does not exist!
+ paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
- paper.docx/odt/tex                 ...	does not exist!
+ paper.docx/odt/tex                 ...	Exists!
 2381/ChulanovAA
