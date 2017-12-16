@@ -49,4 +49,4 @@
 8. Recommender system. 13.12.2017, URL: https://en.wikipedia.org/wiki/Recommender_system
 9. Adomavicius, G.; Tuzhilin, A. (June 2005). "Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions". IEEE Transactions on Knowledge and Data Engineering. 17 (6): 734–749. doi:10.1109/TKDE.2005.99
 10. Коллаборативная фильтрация. 13.12.2017, URL: https://ru.wikipedia.org/wiki/Коллаборативная_фильтрация
-11. Melville P., Mooney R., Nagarajan R. Content-Boosted Collaborative Filtering for Improved Recommendations (англ.) // University of Texas, USA : Материалы конф. / AAAI-02, Austin, TX, USA, 2002. — 2002. — P. 187-192.
+11. Melville P., Mooney R., Nagarajan R. Content-Boosted Collaborative Filtering for Improved Recommendations // University of Texas, USA : Материалы конф. / AAAI-02, Austin, TX, USA, 2002. — 2002. — P. 187-192.
