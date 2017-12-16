@@ -59,7 +59,7 @@ system-wide events.
 
 Current attempts to build the desired package are listed below:
 
-**psutil\_ros** - <https://github.com/brNX/psutil_ros>
+**psutil\_ros** [@source:psutil-ros]
 
 -   Strategy - Uses custom topics in global namespace with
     custom messages.
@@ -85,8 +85,7 @@ The important thing about this package is that this is a tiny *psutil*
 wrapper for ROS. This conforms to practces, described in
 [@ros:best-practices].
 
-**ros-system-monitor** -
-<https://github.com/ethz-asl/ros-system-monitor>
+**ros-system-monitor** [@source:ros-system-monitor]
 
 -   Strategy - Uses */diagnostics* topic with custom *DiagnosticArray*
     structure updaters.
@@ -375,11 +374,17 @@ O’Reilly Media, 2005.
 8) [rep:107] "Diagnostic system for robots running ros," REP 107, 10 2010. [Online].
 Available: <http://www.ros.org/reps/rep-0107.html>
 
-9) [man:ionotify] *A man entry for ionotify(...) API*, 09 2017.
+9) [source:psutil-ros] "psutil\_ros repository". [Online]. Available:
+<https://github.com/brNX/psutil\_ros>
 
-10) [manual:boost.python] *Boost.Python manual*, 08 2017. [Online]. Available:
+10) [source:ros-system-monitor] "ros-system-monitor repository". [Online]. Available:
+<https://github.com/ethz-asl/ros-system-monitor>
+
+11) [man:ionotify] *A man entry for ionotify(...) API*, 09 2017.
+
+12) [manual:boost.python] *Boost.Python manual*, 08 2017. [Online]. Available:
 <http://www.boost.org/doc/libs/1\_65\_1/libs/python/doc/html/reference/index.html>
 
-11) [maunal:psutil] *psutil maunal*, 09 2017. [Online]. Available:
+13) [maunal:psutil] *psutil maunal*, 09 2017. [Online]. Available:
 <https://media.readthedocs.org/pdf/giamptest/latest/giamptest.pdf>
 

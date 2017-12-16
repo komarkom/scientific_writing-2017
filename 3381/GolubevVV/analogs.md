@@ -7,7 +7,7 @@ system-wide events.
 
 Current attempts to build the desired package are listed below:
 
-**psutil\_ros** - <https://github.com/brNX/psutil_ros>
+**psutil\_ros** [@source:psutil-ros]
 
 -   Strategy - Uses custom topics in global namespace with
     custom messages.
@@ -33,8 +33,7 @@ The important thing about this package is that this is a tiny *psutil*
 wrapper for ROS. This conforms to practces, described in
 [@ros:best-practices].
 
-**ros-system-monitor** -
-<https://github.com/ethz-asl/ros-system-monitor>
+**ros-system-monitor** [@source:ros-system-monitor]
 
 -   Strategy - Uses */diagnostics* topic with custom *DiagnosticArray*
     structure updaters.
@@ -76,6 +75,11 @@ node state in ROS.
 1) [rep:107] "Diagnostic system for robots running ros," REP 107, 10 2010. [Online].
 Available: <http://www.ros.org/reps/rep-0107.html>
 
-2) [ros:best-practices] Ros best practices. [Online]. Available:
+2) [source:psutil-ros] "psutil\_ros repository". [Online]. Available:
+<https://github.com/brNX/psutil\_ros>
+
+3) [ros:best-practices] Ros best practices. [Online]. Available:
 <https://github.com/ethz-asl/ros\_best\_practices/wiki>
 
+4) [source:ros-system-monitor] "ros-system-monitor repository". [Online]. Available:
+<https://github.com/ethz-asl/ros-system-monitor>
