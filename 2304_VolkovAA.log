@@ -35,19 +35,30 @@ Checking for purpose-statement files...
 Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for solution_method_selection.md
- solution_method_selection.md       ...	does not exist!
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	558 symbols
+  Number of symbols in solution_method_selection.md                   ...	Not enough. Min = 1000
 Checking for solution_method_description.md
- solution_method_description.md     ...	does not exist!
+ solution_method_description.md     ...	Exists!
+    solution_method_description.md...	2556 symbols
+  Number of symbols in solution_method_description.md                 ...	Not enough. Min = 3000
+  Description title!      ...	Exists!
+  Sources title!          ...	Exists!
+   Number of sources     ...	Not enough. Min = 1
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
- conclusions.md                     ...	does not exist!
+ conclusions.md                     ...	Exists!
+    conclusions.md           ...	942 symbols
+  Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
- abstract.md                        ...	does not exist!
+ abstract.md                        ...	Exists!
+    abstract.md              ...	658 symbols
+  Number of symbols in abstract.md                                    ...	Good.
 Checking for paper.md
- paper.md                           ...	does not exist!
+ paper.md                           ...	Exists!
 Checking for paper.pdf
- paper.pdf                          ...	does not exist!
+ paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
- paper.docx/odt/tex                 ...	does not exist!
+ paper.docx/odt/tex                 ...	Exists!
 2304/EfremovMA
