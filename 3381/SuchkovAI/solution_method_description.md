@@ -22,15 +22,15 @@
 
 2) Внутренний цикл перебора всех ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cleft%20%5C%7B%20r_i%20%5Cright%20%5C%7D_%7Bi%20%3D%201%7D%5Eq) (![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20q%21) шагов). На каждом шаге при фиксированом ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cleft%20%5C%7B%20r_i%20%5Cright%20%5C%7D_%7Bi%20%3D%201%7D%5Eq) находим ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_%5Cmin) и ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_%5Cmax):
 
-2a) Если ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_m%20%3D%20N) - задача решена;
+a) Если ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_m%20%3D%20N) - задача решена;
 
-2b) Если ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20N) не находится между ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_%5Cmin) и ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_%5Cmax), то переходим к следующему набору ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cleft%20%5C%7B%20r_i%20%5Cright%20%5C%7D_%7Bi%20%3D%201%7D%5Eq);
+b) Если ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20N) не находится между ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_%5Cmin) и ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_%5Cmax), то переходим к следующему набору ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cleft%20%5C%7B%20r_i%20%5Cright%20%5C%7D_%7Bi%20%3D%201%7D%5Eq);
 
-2c) Если ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20N) находится между ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_%5Cmin) и ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_%5Cmax), то организуем внутренний цикл перебора всех векторов добавок ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cleft%20%5C%7B%20%5Crho_j%20%5Cright%20%5C%7D_%7Bj%20%3D%20q%20&plus;%201%7D%5Em). Таких наборов ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cfrac%7Bm%21%7D%7Bq%21%7D);
+c) Если ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20N) находится между ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_%5Cmin) и ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_%5Cmax), то организуем внутренний цикл перебора всех векторов добавок ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cleft%20%5C%7B%20%5Crho_j%20%5Cright%20%5C%7D_%7Bj%20%3D%20q%20&plus;%201%7D%5Em). Таких наборов ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cfrac%7Bm%21%7D%7Bq%21%7D);
 
-2d) Если обнаруживается ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_m%20%3D%20N) - задача решена;
+d) Если обнаруживается ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20c_m%20%3D%20N) - задача решена;
 
-2e) Если в цикле таких векторов не оказалось, то переходим к следующему (по введённой упорядоченности) вектору добавок ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cleft%20%5C%7B%20r_i%20%5Cright%20%5C%7D_%7Bi%20%3D%201%7D%5Eq).
+e) Если в цикле таких векторов не оказалось, то переходим к следующему (по введённой упорядоченности) вектору добавок ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Clarge%20%5Cleft%20%5C%7B%20r_i%20%5Cright%20%5C%7D_%7Bi%20%3D%201%7D%5Eq).
 
 3) Если все наборы фиксированной длины исчерпаны, то увеличиваем их длину во внешнем цикле.
 
