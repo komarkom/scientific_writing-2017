@@ -119,15 +119,13 @@ MoveIt имеет интеграцию с ROS и  не требует допол
 Дальнейшим направлением исследования является более подробное исследование возможностей планирования траекторий нескольких роботов с MoveIt! в ROS и построение полноценной демо-модели.
 
 ## Список литературы
-1. http://ompl.kavrakilab.org/
-2. http://wiki.ros.org/urdf
-3. http://wiki.ros.org/srdf
-4. https://gitlab.com/Simox/simox/wikis/Saba
-5. http://moveit.ros.org
-6. http://tmkit.kavrakilab.org
-7. http://ompl.kavrakilab.org/
-8. https://gitlab.com/Simox/simox
-9. https://groups.google.com/forum/#!forum/moveit-users
-10. http://tmkit.kavrakilab.org/usergroup0.html
-11. http://ompl.kavrakilab.org/OMPL_Primer.pdf
-12. https://gitlab.com/Simox/simox/wikis/home
+1. Официальный сайт библиотеки The Open Motion Planning Library [Электронный ресурс] URL: http://ompl.kavrakilab.org/
+2. Описание формата URDF [Электронный ресурс] URL: http://wiki.ros.org/urdf
+3. Описание формата SRDF [Электронный ресурс] URL: http://wiki.ros.org/srdf
+4. Описание средства планирования Saba [Электронный ресурс] URL: https://gitlab.com/Simox/simox/wikis/Saba
+5. Официальный сайт фреймворка MoveIt! [Электронный ресурс] URL: http://moveit.ros.org
+6. Документация фреймворка TMKit[Электронный ресурс] URL: http://tmkit.kavrakilab.org/usergroup0.html
+8. Документация платформы Simox [Электронный ресурс] URL: https://gitlab.com/Simox/simox/wikis/home
+9. Список рассылки MoveIt! [Электронный ресурс] URL: https://groups.google.com/forum/#!forum/moveit-users
+11.Open Motion Planning Library: A Primer / Kavraki Lab Rice University. November 11, 2017. URL: http://ompl.kavrakilab.org/OMPL_Primer.pdf
+
