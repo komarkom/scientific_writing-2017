@@ -2,7 +2,10 @@ __
 Checking for directory "./3381/SuchkovAI"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  Гашков_статья.pdf
+  pippenger.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
     fact_result.md           ...	Empty!
@@ -16,43 +19,46 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	Empty!
-    research_object.md       ...	Empty!
-    research_subject.md      ...	Empty!
-    goal.md                  ...	Empty!
-    tasks.md                 ...	Empty!
-    relevance.md             ...	Empty!
-  All files are empty!
-  Number of symbols in purpose statement's        ...	Not enough. Min = 300
+    problem.md               ...	70 symbols
+    research_object.md       ...	43 symbols
+    research_subject.md      ...	39 symbols
+    goal.md                  ...	175 symbols
+    tasks.md                 ...	238 symbols
+    relevance.md             ...	241 symbols
+  All files               ...	806 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	Empty!
-  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+    analogs.md               ...	3733 symbols
+  Number of symbols in analogs.md                 ...	Good.
   There is no Analogs title!
-  There is no Criterias title!
-  There is no Sources title!
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	Exists!
-    solution_method_selection.md...	Empty!
+    solution_method_selection.md...	741 symbols
   Number of symbols in solution_method_selection.md                   ...	Not enough. Min = 1000
 Checking for solution_method_description.md
  solution_method_description.md     ...	Exists!
-    solution_method_description.md...	Empty!
-  Number of symbols in solution_method_description.md                 ...	Not enough. Min = 3000
+    solution_method_description.md...	3118 symbols
+  Number of symbols in solution_method_description.md                 ...	Good.
   There is no Description title!
-  There is no Sources title!
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
  conclusions.md                     ...	Exists!
-    conclusions.md           ...	Empty!
-  Number of symbols in conclusions.md                                 ...	Not enough. Min = 500
+    conclusions.md           ...	1002 symbols
+  Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
  abstract.md                        ...	Exists!
-    abstract.md              ...	Empty!
-  Number of symbols in abstract.md                                    ...	Not enough. Min = 400
+    abstract.md              ...	565 symbols
+  Number of symbols in abstract.md                                    ...	Good.
 Checking for paper.md
- paper.md                           ...	does not exist!
+ paper.md                           ...	Exists!
 Checking for paper.pdf
  paper.pdf                          ...	does not exist!
 Checking for paper.docx/odt/tex
