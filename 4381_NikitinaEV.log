@@ -35,7 +35,9 @@ Checking for analogs.md
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
- solution_method_selection.md       ...	does not exist!
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	Empty!
+  Number of symbols in solution_method_selection.md                   ...	Not enough. Min = 1000
 Checking for solution_method_description.md
  solution_method_description.md     ...	does not exist!
 Checking for solution_method_evaluation.md
@@ -47,7 +49,7 @@ Checking for abstract.md
 Checking for paper.md
  paper.md                           ...	Exists!
 Checking for paper.pdf
- paper.pdf                          ...	does not exist!
+ paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	Exists!
 4381/LaptsevichDA
