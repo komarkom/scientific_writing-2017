@@ -1,13 +1,10 @@
 __
-Checking for directory "./2304/EfremovMA"
+Checking for directory "./2304/StarikovNS"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory                ...	Exists!
-  No .pdf files!
+ Directory doesn't exist!
 Checking for fact_result.md
- fact_result.md           ...	Exists!
-    fact_result.md           ...	1880 symbols
-  Number of symbols in fact_result.md             ...	Good.
+ fact_result.md           ...	does not exist!
 Checking for purpose-statement files...
      problem.md               ...	Exists!
      research_object.md       ...	Exists!
@@ -17,24 +14,16 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	118 symbols
-    research_object.md       ...	30 symbols
-    research_subject.md      ...	49 symbols
-    goal.md                  ...	85 symbols
-    tasks.md                 ...	325 symbols
-    relevance.md             ...	460 symbols
-  All files               ...	1067 symbols
+    problem.md               ...	89 symbols
+    research_object.md       ...	43 symbols
+    research_subject.md      ...	58 symbols
+    goal.md                  ...	102 symbols
+    tasks.md                 ...	218 symbols
+    relevance.md             ...	322 symbols
+  All files               ...	832 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	Exists!
-    analogs.md               ...	5031 symbols
-  Number of symbols in analogs.md                 ...	Good.
-  Analogs title!          ...	Exists!
-   Number of analogs     ...	Good.
-  Criterias title!        ...	Exists!
-   Number of analogs     ...	Good.
-  Sources title!          ...	Exists!
-   Number of sources     ...	At least 1! Good!
+ analogs.md               ...	does not exist!
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	does not exist!
 Checking for solution_method_description.md
@@ -51,4 +40,4 @@ Checking for paper.pdf
  paper.pdf                          ...	does not exist!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	does not exist!
-2304/StarikovNS
+2304/KomarovDN

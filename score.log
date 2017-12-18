@@ -1326,6 +1326,49 @@ Checking for paper.pdf
  paper.pdf                          ...	does not exist!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	does not exist!
+2304/StarikovNS
+__
+Checking for directory "./2304/StarikovNS"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory doesn't exist!
+Checking for fact_result.md
+ fact_result.md           ...	does not exist!
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	89 symbols
+    research_object.md       ...	43 symbols
+    research_subject.md      ...	58 symbols
+    goal.md                  ...	102 symbols
+    tasks.md                 ...	218 symbols
+    relevance.md             ...	322 symbols
+  All files               ...	832 symbols
+  Number of symbols in purpose statement's        ...	Good.
+Checking for analogs.md
+ analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+Checking for conclusions.md
+ conclusions.md                     ...	does not exist!
+Checking for abstract.md
+ abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 2304/KomarovDN
 __
 Checking for directory "./2304/KomarovDN"
@@ -2453,6 +2496,7 @@ Checking for paper.docx/odt/tex
 ['MikhaylovVV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['VolkovAA', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '1', '0', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['EfremovMA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['StarikovNS', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KomarovDN', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1']
 ['KlimukKP', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['IshchenkoAP', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
