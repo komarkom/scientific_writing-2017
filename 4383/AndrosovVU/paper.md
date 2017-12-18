@@ -7,76 +7,67 @@
 
 ## Обзор предметной области
 
-### Онлайн-школа Android-разработчиков 
-https://learndroid.e-legion.ru
 
-Author: e-legion + Google
+### Онлайн-школа Android-разработчиков [6]
 
-Description:
+Автор: e-legion + Google
+
+Описание:
 
 14 бесплатных лекций от экспертов из e-Legion, OK.RU, Tinkoff, JetBrains, Kaspersky Lab, Parallels.
 Лекции подойдут как новичкам с базовыми знаниями Java, так и уже опытным разработчикам.
 Сертификат об окончании школы от Google.
 Курс завершился.
 
-### Become an Android Developer from Scratch
-https://www.udemy.com/become-an-android-developer-from-scratch
 
-Description:
+### Become an Android Developer from Scratch [7]
 
-"Become An Android Developer From Scratch” is designed to be the best first step to launching your career as an Android Developer. Whether you've never programmed before or are coming to mobile development for the first time, if you're truly inspired to learn Android Development, this is where you need to start.
+Описание:
+
+"Become An Android Developer From Scratch” разработан как отличный первый шаг для начала карьеры как Android разработчика. Вне зависимости от того, программировали вы ранее или новичок в мобильной разработки, данный курс предоставит все необходимое для развития.
 Лекции: 121
 Видео: 12,5 ч.
 237618 студентов.
 Языки: Английский + Субтитры.
 Сертификат об окончании.
 
-### Android Basics Nanodegree by  Google
-https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
+### Android Basics Nanodegree by  Google [8]
 
-Description:
+Описание:
 
-No programming experience? No problem! Learn how to develop Android apps in this efficient, guided program, where you'll have access to your own personal mentor, a network of project reviewers, and a rich community of learners to support you at every step.
-You'll also learn the basics of the Java programming language, which you'll use to build your own portfolio of Android apps.
+Один из крупнейших современных онлайн-курсов по программированию для Android. Включает в себя основы программирования на языке Java.
 
-Включает в себя 5 подкурсов в рамках одного курса на одной платформе Udacity:
+Включает в себя 5 подкурсов в рамках одного курса на одной платформе Udacity: [9], [10], [11], [12], [13]
 
-* https://www.udacity.com/course/android-basics-user-interface--ud834
-* https://www.udacity.com/course/android-basics-user-input--ud836
-* https://www.udacity.com/course/android-basics-multiscreen-apps--ud839
-* https://www.udacity.com/course/android-basics-networking--ud843
-* https://www.udacity.com/course/android-basics-data-storage--ud845
 
-### Специализация Разработка приложений под Android
-https://www.coursera.org/specializations/android-app-development
+### Специализация Разработка приложений под Android [14]
 
-Author: Vanderbilt University
+Автор: Vanderbilt University
 
-Description:
+Описание:
 
-This Specialization enables learners to successfully apply core Java programming languages features & software patterns needed to develop maintainable mobile apps comprised of core Android components, as well as fundamental Java I/O & persistence mechanisms. Learners who successfully complete this Specialization will be well-prepared to master the more advanced material in the subsequent "Mobile Cloud Computing with Android" Specialization.
+Дананя специализация позволяет досконально изучить базовое программирование на языке Java, а также паттерны проектирования, необходимые для полноценной мобильной разработки с использованием компонентов Android. Обучающиеся. успешно освоившие данную специализацию, могут приступить к более продвинутому материалу в рамках специализации "Mobile Cloud Computing with Android".
 
 Включает в себя 5 подкурсов в рамках одного курса на одной платформе Coursera.
 Целиком курс платный, можно бесплатно получить начальные фрагменты.
 
-### Programming Mobile Applications for Android Handheld Systems: Part 1
-https://www.coursera.org/learn/android-programming
 
-Author: University of Maryland
+### Programming Mobile Applications for Android Handheld Systems: Part 1 [15]
 
-Description: 
+Автор: University of Maryland
 
-This course introduces you to the design and implementation of Android applications for mobile devices. You will develop an app from scratch, assuming a basic knowledge of Java, and learn how to set up Android Studio, work with various Activities and create simple user interfaces to make your apps run smoothly.
+Описание: 
+
+Данный курс предоставляет введение в дизайн и имплементацию Android-приложений дял мобильынй устройств. Обучающийся сможет пройти все этапы разработки приложения, получит базовые знания языка Java, научится, как устанавливать и настраивать Android Studio, работать с различными Activities и создавать простейшие интерфейсы.
 
 
-### Build a Simple Android App with Java
-https://teamtreehouse.com/library/build-a-simple-android-app-with-java
+### Build a Simple Android App with Java [16]
 
-Author: TreeHouse 
+Автор: TreeHouse 
 
-Description: 
+Описание: 
 
-This course covers the very basics of Android development. We will build a simple app that will serve up some fun facts when you tap on a button. We introduce you to programming in Android, a tool for Android development called Android Studio, and some very basic concepts of the Android Software Development Kit, or SDK. By the end you will have a good idea of how a basic app works, and you will be armed with the knowledge to start building more.
+Данный курс покрывает основы разработки приложений для Android. Рассмотрены этапы разработки простейшего приложения, введение в программирование на Android, рассмотрен набор приложений и утилит для разработки на Android, Android Studio, а также базовые принципы Android Software Development Kit. По окончанию обучения вы получите полноценное представление того, как устроено базовое приложение и будете готовы построить собственное.
 
 Курс платный.
 
@@ -107,12 +98,12 @@ This course covers the very basics of Android development. We will build a simpl
 * Способы проверки (автоматизированные, ручные, etc);
 * Интерфейсы сдачи заданий;
 
-### [Таблица сравнения по критериям](https://docs.google.com/spreadsheets/d/10pljGIQ2SdcYoLO6nRMlm5PuSqp1MB8pZTslw6fSYoI/edit?usp=sharing)
+### [Таблица сравнения по критериям] [17]
 
 Применительно к рассматриваемому списку курсов, наибольшее соответствие критериям демонстрируют следующие онлайн-курсы:
 
-* https://teamtreehouse.com/library/build-a-simple-android-app-with-java
-* https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
+* Android Basics Nanodegree by  Google [8]
+* Build a Simple Android App with Java [16]
 
 
 ## Выбор метода решения
@@ -172,3 +163,15 @@ This course covers the very basics of Android development. We will build a simpl
 3. https://cyberleninka.ru/article/n/otsenka-kachestva-onlayn-kursov
 4. https://cyberleninka.ru/article/n/massovye-otkrytye-onlayn-kursy-kak-tendentsiya-razvitiya-obrazovaniya
 5. https://cyberleninka.ru/article/n/metodiki-proverki-mnogoshagovyh-zadach-v-usloviyah-smeshannogo-i-distantsionnogo-avtomatizirovannogo-obucheniya
+6. https://learndroid.e-legion.ru
+7. https://www.udemy.com/become-an-android-developer-from-scratch
+8. https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
+9. https://www.udacity.com/course/android-basics-user-interface--ud834
+10. https://www.udacity.com/course/android-basics-user-input--ud836
+11. https://www.udacity.com/course/android-basics-multiscreen-apps--ud839
+12. https://www.udacity.com/course/android-basics-networking--ud843
+13. https://www.udacity.com/course/android-basics-data-storage--ud845
+14. https://www.coursera.org/specializations/android-app-development
+15. https://www.coursera.org/learn/android-programming
+16. https://teamtreehouse.com/library/build-a-simple-android-app-with-java
+17. https://docs.google.com/spreadsheets/d/10pljGIQ2SdcYoLO6nRMlm5PuSqp1MB8pZTslw6fSYoI/edit?usp=sharing
