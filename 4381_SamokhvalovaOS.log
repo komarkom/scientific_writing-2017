@@ -5,8 +5,8 @@ Checking /paper_base directory for .pdf files
  Directory doesn't exist!
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	1192 symbols
-  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+    fact_result.md           ...	1356 symbols
+  Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
      problem.md               ...	Exists!
      research_object.md       ...	Exists!

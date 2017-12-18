@@ -303,8 +303,8 @@ Checking /paper_base directory for .pdf files
  Directory doesn't exist!
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	1192 symbols
-  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+    fact_result.md           ...	1356 symbols
+  Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
      problem.md               ...	Exists!
      research_object.md       ...	Exists!
@@ -409,8 +409,8 @@ Checking /paper_base directory for .pdf files
  Directory doesn't exist!
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	1192 symbols
-  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+    fact_result.md           ...	1356 symbols
+  Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
      problem.md               ...	Exists!
      research_object.md       ...	Exists!
@@ -2529,9 +2529,9 @@ Checking for paper.docx/odt/tex
 ['BleesEI', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '1', '1', '1', '1', '0', '1', '1', '1']
 ['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KarpuninSA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1']
-['UliashevKD', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0']
+['UliashevKD', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0']
 ['KarpenkoDR', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1']
-['SamokhvalovaOS', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0']
+['SamokhvalovaOS', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0']
 ['NikitinaEV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1']
 ['LaptsevichDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['MarushakJV', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '1', '1', '1']
