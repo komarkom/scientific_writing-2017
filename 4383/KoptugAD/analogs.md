@@ -115,6 +115,6 @@ OCR (Optical Character Recognition — оптическое распознава
 ## Выводы по итогам сравнения
 По полученным результатам можно сделать вывод, что каждый из перечисленных методов имеет как преимущества так и недостатки. Так, например, векторное пространство обладает хорошей скоростью распознования, однако правильность значительно ниже, чем у остальных методов. Распознование с помощью человеческих ресурсов хоть и является актуальным, однако процесс распознования занимает достаточно много времени.
 ## Источники
-https://www.abbyy.com/finereader/what-is-ocr/
-https://irthoughts.wordpress.com/2008/04/21/vector-space-models-and-search-engines/
+1. https://www.abbyy.com/finereader/what-is-ocr/
+2. https://irthoughts.wordpress.com/2008/04/21/vector-space-models-and-search-engines/
 
