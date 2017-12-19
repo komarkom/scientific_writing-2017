@@ -3,10 +3,17 @@ Checking for directory "./2304/EfremovMA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
  Directory                ...	Exists!
-  No .pdf files!
+ .pdf files found:
+  [MIRA - Middleware for Robotic Applications].pdf
+  [YARP: Yet Another Robot Platform].pdf
+  [A Layered Middleware Architecture for Automated Robot Services].pdf
+  [OROCOS- Easy way to Develop Open Source Robot Control Application].pdf
+  [Open Robot Control Software: the OROCOS project].pdf
+  [A Survey of Development Frameworks for Robotics].pdf
+  [Robotics software frameworks for multi-agent robotic systems development].pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	1880 symbols
+    fact_result.md           ...	1769 symbols
   Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
      problem.md               ...	Exists!
@@ -17,36 +24,44 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	118 symbols
-    research_object.md       ...	30 symbols
-    research_subject.md      ...	49 symbols
-    goal.md                  ...	85 symbols
-    tasks.md                 ...	325 symbols
-    relevance.md             ...	460 symbols
-  All files               ...	1067 symbols
+    problem.md               ...	123 symbols
+    research_object.md       ...	77 symbols
+    research_subject.md      ...	117 symbols
+    goal.md                  ...	135 symbols
+    tasks.md                 ...	329 symbols
+    relevance.md             ...	740 symbols
+  All files               ...	1521 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	5031 symbols
+    analogs.md               ...	6512 symbols
   Number of symbols in analogs.md                 ...	Good.
   Analogs title!          ...	Exists!
    Number of analogs     ...	Good.
-  Criterias title!        ...	Exists!
-   Number of analogs     ...	Good.
-  Sources title!          ...	Exists!
-   Number of sources     ...	At least 1! Good!
+  There is no Criterias title!
+  There is no Sources title!
 Checking for solution_method_selection.md
- solution_method_selection.md       ...	does not exist!
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	424 symbols
+  Number of symbols in solution_method_selection.md                   ...	Not enough. Min = 1000
 Checking for solution_method_description.md
- solution_method_description.md     ...	does not exist!
+ solution_method_description.md     ...	Exists!
+    solution_method_description.md...	12095 symbols
+  Number of symbols in solution_method_description.md                 ...	Good.
+  Description title!      ...	Exists!
+  There is no Sources title!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
- conclusions.md                     ...	does not exist!
+ conclusions.md                     ...	Exists!
+    conclusions.md           ...	1360 symbols
+  Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
- abstract.md                        ...	does not exist!
+ abstract.md                        ...	Exists!
+    abstract.md              ...	545 symbols
+  Number of symbols in abstract.md                                    ...	Good.
 Checking for paper.md
- paper.md                           ...	does not exist!
+ paper.md                           ...	Exists!
 Checking for paper.pdf
  paper.pdf                          ...	does not exist!
 Checking for paper.docx/odt/tex

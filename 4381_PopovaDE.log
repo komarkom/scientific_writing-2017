@@ -1,14 +1,12 @@
 __
-Checking for directory "./4381/MarushakJV"
+Checking for directory "./4381/PopovaDE"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory                ...	Exists!
- .pdf files found:
-  Процессы ЖЦ.pdf
+ Directory doesn't exist!
 Checking for fact_result.md
  fact_result.md           ...	Exists!
-    fact_result.md           ...	258 symbols
-  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+    fact_result.md           ...	1356 symbols
+  Number of symbols in fact_result.md             ...	Good.
 Checking for purpose-statement files...
      problem.md               ...	Exists!
      research_object.md       ...	Exists!
@@ -18,16 +16,24 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	257 symbols
-    research_object.md       ...	84 symbols
-    research_subject.md      ...	94 symbols
-    goal.md                  ...	123 symbols
-    tasks.md                 ...	217 symbols
-    relevance.md             ...	1311 symbols
-  All files               ...	2086 symbols
+    problem.md               ...	176 symbols
+    research_object.md       ...	63 symbols
+    research_subject.md      ...	87 symbols
+    goal.md                  ...	157 symbols
+    tasks.md                 ...	232 symbols
+    relevance.md             ...	1122 symbols
+  All files               ...	1837 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	1813 symbols
+  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	Not enough. Min = 1
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	does not exist!
 Checking for solution_method_description.md
@@ -37,13 +43,13 @@ Checking for solution_method_evaluation.md
 Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
- abstract.md                        ...	Exists!
-    abstract.md              ...	258 symbols
-  Number of symbols in abstract.md                                    ...	Not enough. Min = 400
+ abstract.md                        ...	does not exist!
 Checking for paper.md
  paper.md                           ...	Exists!
 Checking for paper.pdf
  paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	Exists!
-4381/PopovaDE
+Checking for directory "./4383"
+ Directory                ...	Exists!
+4383/KozlovskykhEB
