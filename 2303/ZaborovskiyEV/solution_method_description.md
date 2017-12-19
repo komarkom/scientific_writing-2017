@@ -50,4 +50,3 @@
 
 ## Источники
 1. https://habrahabr.ru/company/mailru/blog/259125/
-2. analogs.md
