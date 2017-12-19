@@ -161,8 +161,9 @@ Steam, специализирующемся на продаже компьюте
 а также о сообществах, в которых они состоят. Стоит отметить, что также было разработано API для импорта данных вручную.
 После загрузки данные сохраняются в базу данных Neo4j. 
 
-![Image of NoSQL data model](https://github.com/olkaprogrammist/scientific_writing-2017/blob/master/4381/SamokhvalovaOS/img/NoSQLmodel.png?raw=true)
 рис. 1 Графическое представление NoSQL модели данных
+![Image of NoSQL data model](https://github.com/moevm/scientific_writing-2017/blob/SamokhvalovaOS/4381/SamokhvalovaOS/img/NoSQLmodel.PNG?raw=true)
+
 
 Вершины графа бывают двух типов: Person и Group. Корневая вершина имеет тип Person и хранит идентификатор пользователя, остальные вершины типа Person хранят идентификаторы его друзей, вершины – листья имеют тип Group и хранят идентификатор сообщества. 
 Вершины имеют следующие свойства:
@@ -183,9 +184,10 @@ Steam, специализирующемся на продаже компьюте
 Проще говоря, рассматриваются сообщества, в которых состоят друзья пользователя, но не состоит сам пользователь, составляется рейтинг по количеству вхождений в сообщество друзей, но с учетом информации о том, сколько общих сообществ у пользователя с другом. Чем больше общих сообществ у пользователя и друга, тем больший вес в рейтинге имеют сообщества, в которых состоит этот друг.
 
 После завершения поиска рекомендаций полученная информация выводится на интерфейс пользователя в удобном для восприятия виде.
- 
-![Image of UI](https://github.com/olkaprogrammist/scientific_writing-2017/blob/master/4381/SamokhvalovaOS/img/ui.png?raw=true)
+
 рис. 2 Интерфейс пользователя
+![Image of UI](https://github.com/moevm/scientific_writing-2017/blob/SamokhvalovaOS/4381/SamokhvalovaOS/img/ui.png?raw=true)
+
 
 Главным минусом данного решения является время, требуемое на загрузку данных в базу: при больших объемах данных приложение не 
 сможет отработать за приемлемое для пользователя время, несмотря на то, что сам алгоритм построения рекомендаций занимает всего несколько секунд.
@@ -206,8 +208,9 @@ Steam, специализирующемся на продаже компьюте
  
 2. SQL-запросы были бы более громоздкими и сложными, чем NoSQL-запросы.
 
-![Image of UI](https://github.com/olkaprogrammist/scientific_writing-2017/blob/master/4381/SamokhvalovaOS/img/sqlmodel.png?raw=true)
 рис. 3 Графическое представление SQL модели данных
+![Image of UI](https://github.com/moevm/scientific_writing-2017/blob/SamokhvalovaOS/4381/SamokhvalovaOS/img/sqlmodel.png?raw=true)
+
 
 Таблица «Person» содержит информацию о пользователе и его друзьях: 
 * personId (int)
