@@ -28,7 +28,7 @@ Checking for purpose-statement files...
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	7781 symbols
+    analogs.md               ...	8074 symbols
   Number of symbols in analogs.md                 ...	Good.
   There is no Analogs title!
   There is no Criterias title!
@@ -47,7 +47,7 @@ Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
  conclusions.md                     ...	Exists!
-    conclusions.md           ...	2208 symbols
+    conclusions.md           ...	2210 symbols
   Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
  abstract.md                        ...	Exists!
