@@ -6,19 +6,41 @@ Checking /paper_base directory for .pdf files
 Checking for fact_result.md
  fact_result.md           ...	does not exist!
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	113 symbols
+    research_object.md       ...	56 symbols
+    research_subject.md      ...	131 symbols
+    goal.md                  ...	123 symbols
+    tasks.md                 ...	179 symbols
+    relevance.md             ...	461 symbols
+  All files               ...	1063 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	2487 symbols
+  Number of symbols in analogs.md                 ...	Good.
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  There is no Sources title!
 Checking for solution_method_selection.md
- solution_method_selection.md       ...	does not exist!
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	721 symbols
+  Number of symbols in solution_method_selection.md                   ...	Not enough. Min = 1000
 Checking for solution_method_description.md
- solution_method_description.md     ...	does not exist!
+ solution_method_description.md     ...	Exists!
+    solution_method_description.md...	1170 symbols
+  Number of symbols in solution_method_description.md                 ...	Not enough. Min = 3000
+  There is no Description title!
+  There is no Sources title!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
