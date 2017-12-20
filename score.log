@@ -188,7 +188,7 @@ Checking for purpose-statement files...
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	2040 symbols
+    analogs.md               ...	2836 symbols
   Number of symbols in analogs.md                 ...	Good.
   Analogs title!          ...	Exists!
    Number of analogs     ...	Good.
@@ -202,15 +202,15 @@ Checking for solution_method_selection.md
   Number of symbols in solution_method_selection.md                   ...	Good.
 Checking for solution_method_description.md
  solution_method_description.md     ...	Exists!
-    solution_method_description.md...	2299 symbols
-  Number of symbols in solution_method_description.md                 ...	Not enough. Min = 3000
+    solution_method_description.md...	3704 symbols
+  Number of symbols in solution_method_description.md                 ...	Good.
   Description title!      ...	Exists!
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	Exists!
-    solution_method_evaluation.md...	2937 symbols
-  Number of symbols in solution_method_evaluation.md                  ...	Not enough. Min = 3000
+    solution_method_evaluation.md...	3580 symbols
+  Number of symbols in solution_method_evaluation.md                  ...	Good.
   There is no Evaluation title!
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
@@ -220,8 +220,8 @@ Checking for conclusions.md
   Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
  abstract.md                        ...	Exists!
-    abstract.md              ...	391 symbols
-  Number of symbols in abstract.md                                    ...	Not enough. Min = 400
+    abstract.md              ...	567 symbols
+  Number of symbols in abstract.md                                    ...	Good.
 Checking for paper.md
  paper.md                           ...	Exists!
 Checking for paper.pdf
@@ -2748,7 +2748,7 @@ Checking for paper.docx/odt/tex
 ['PolushinaYI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['OsmolovskyPD', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0']
-['BleesEI', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '1', '1', '1', '1', '0', '1', '1', '1']
+['BleesEI', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
 ['ChirukhinAA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '1', '0', '1', '0', '0', '1', '0', '0', '1', '1', '1', '0', '1', '0', '0']
 ['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KarpuninSA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1']
