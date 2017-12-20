@@ -2,7 +2,9 @@ __
 Checking for directory "./4381/SamokhvalovaOS"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  paper.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
     fact_result.md           ...	1356 symbols
@@ -26,28 +28,38 @@ Checking for purpose-statement files...
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	1813 symbols
-  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
-  Analogs title!          ...	Exists!
-   Number of analogs     ...	Good.
-  Criterias title!        ...	Exists!
-   Number of analogs     ...	Good.
+    analogs.md               ...	2621 symbols
+  Number of symbols in analogs.md                 ...	Good.
+  There is no Analogs title!
+  There is no Criterias title!
   Sources title!          ...	Exists!
-   Number of sources     ...	Not enough. Min = 1
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
- solution_method_selection.md       ...	does not exist!
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	6833 symbols
+  Number of symbols in solution_method_selection.md                   ...	Good.
 Checking for solution_method_description.md
- solution_method_description.md     ...	does not exist!
+ solution_method_description.md     ...	Exists!
+    solution_method_description.md...	2717 symbols
+  Number of symbols in solution_method_description.md                 ...	Not enough. Min = 3000
+  There is no Description title!
+  There is no Sources title!
 Checking for solution_method_evaluation.md
- solution_method_evaluation.md      ...	does not exist!
+ solution_method_evaluation.md      ...	Exists!
+    solution_method_evaluation.md...	1379 symbols
+  Number of symbols in solution_method_evaluation.md                  ...	Not enough. Min = 3000
+  Evaluation title!       ...	Exists!
+  There is no Sources title!
 Checking for conclusions.md
- conclusions.md                     ...	does not exist!
+ conclusions.md                     ...	Exists!
+    conclusions.md           ...	691 symbols
+  Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
  abstract.md                        ...	does not exist!
 Checking for paper.md
  paper.md                           ...	Exists!
 Checking for paper.pdf
- paper.pdf                          ...	Exists!
+ paper.pdf                          ...	does not exist!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	Exists!
 4381/NikitinaEV
