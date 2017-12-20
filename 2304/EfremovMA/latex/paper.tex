@@ -1,0 +1,52 @@
+\documentclass[conference]{IEEEtran}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[russian,english]{babel}
+
+\renewcommand{\sfdefault}{cmss}
+\renewcommand{\rmdefault}{cmr}
+\renewcommand{\ttdefault}{cmt}
+
+\usepackage{booktabs}
+\usepackage{csquotes}
+\usepackage{cite}
+
+\begin{document}
+	\title{Проблематика производительности многоагентных фреймворков для разработки ПО автономных роботов}
+	\author{
+		\IEEEauthorblockN{Михаил Ефремов}
+		\IEEEauthorblockA{
+			Санкт-Петербургский \\
+			Электротехнический Университет\\
+			СПбГЭТУ "ЛЭТИ" \\
+			Email: jakutenshi@gmail.com}
+	}
+
+	\maketitle
+	\selectlanguage{russian}
+	\begin{abstract}
+		Данная работа выделяет ряд проблем и задач, выполняемых таким промежуточным ПО, как фреймворки для разработки робототехнических приложений для автономных роботов. Данная статья делает упор на обнаружение критических для производительности мест в наиболее пригодной архитектуры для рассматриваемых фреймворков: многоагентной. Так же были выделены для исследования ряд существующих и наиболее используемых  фреймворков для рассмотрения способов решения проблем разработки такой архитектуры, выделяя подходы и технологии, которые стоит протестировать на предмет различных характеристик производительности распределенной системы.
+	\end{abstract}
+
+	\section{Введение}
+		\input{tex/introduction.tex}
+	\section{Обзор предметной области }
+		\input{tex/domain_overview.tex}
+	\section{Выбор метода решения}
+		\input{tex/solution_method_selection.tex}
+	\section{Описание метода решения}
+		\input{tex/solution_method_description.tex}
+	\section{заключение}
+		\input{tex/conclusion.tex}
+		
+		
+	\bibliographystyle{IEEEtran}
+	\bibliography{refs}
+%	\begin{thebibliography}{1}
+%		
+%		
+%	\end{thebibliography}
+	
+	
+\end{document}
