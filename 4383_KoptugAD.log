@@ -2,19 +2,40 @@ __
 Checking for directory "./4383/KoptugAD"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  stark-gcpr15.pdf
+  burszstein_2010_captcha.pdf
+  sivakorn_eurosp16.pdf
 Checking for fact_result.md
  fact_result.md           ...	does not exist!
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	521 symbols
+    research_object.md       ...	71 symbols
+    research_subject.md      ...	89 symbols
+    goal.md                  ...	237 symbols
+    tasks.md                 ...	271 symbols
+    relevance.md             ...	202 symbols
+  All files               ...	1391 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	3973 symbols
+  Number of symbols in analogs.md                 ...	Good.
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	does not exist!
 Checking for solution_method_description.md
