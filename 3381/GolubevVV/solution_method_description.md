@@ -4,15 +4,15 @@ Strategy
 Ideally, a tool would subscribe to the desired set of system events and
 report those accordingly, following ROS reactive workflow. However, this
 is challenging, because not all kernel changes may be observed in an
-asynchronious way due to their implementation factor. In particular,
+asynchronous way due to their implementation factor. In particular,
 kernel provides read-only access to some of its high-level data
 structures through *sysfs*, propagating standard UNIX file workflow
-[@Kerrisk:2010]. One would use *ionotify(...)* API [@man:ionotify] to
-observe filesystem changes in an asynchronious way, yet this approach
-would not work on *sysfs*, because *sysfs* entries are lazy - there are
-no changes, until client requests current state [@LDD:2005]. This leads
-to the conclusion, that most kernel changes can be observed only by
-*sysfs* polling.
+[@Kerrisk:2010]. One would use *ionotify* API [@man:ionotify] to observe
+filesystem changes in an asynchronous way, yet this approach would not
+work on *sysfs*, because *sysfs* entries are lazy - there are no
+changes, until client requests current state [@LDD:2005]. This leads to
+the conclusion, that most kernel changes can be observed only by *sysfs*
+polling.
 
 Interfaces
 ----------
@@ -125,24 +125,3 @@ with *diagnostics\_updater* package, described in [@rep:107] and
 <http://wiki.ros.org/diagnostic_updater>. This package encapsulates all
 the boilerplate, associated with filling out *DiagnosticArray*
 structures and pushing data to */diagnostics*.
-
-## References
-
-1) [Kerrisk:2010] M. Kerrisk, *The Linux Programming Interface*. No Starch Press, 2010.
-
-2) [man:ionotify] *A man entry for ionotify(...) API*, 09 2017.
-
-3) [LDD:2005] J. Corbet, A. Rubini, and G. Kroah-Hartman, *Linix Device Drivers*.
-O’Reilly Media, 2005.
-
-4) [rep:107] "Diagnostic system for robots running ros," REP 107, 10 2010. [Online].
-Available: <http://www.ros.org/reps/rep-0107.html>
-
-5) [man:proc] *A man entry for /proc pseudo-file system*, 12 2016.
-
-6) [manual:boost.python] *Boost.Python manual*, 08 2017. [Online]. Available:
-<http://www.boost.org/doc/libs/1\_65\_1/libs/python/doc/html/reference/index.html>
-
-7) [maunal:psutil] *psutil maunal*, 09 2017. [Online]. Available:
-<https://media.readthedocs.org/pdf/giamptest/latest/giamptest.pdf>
-

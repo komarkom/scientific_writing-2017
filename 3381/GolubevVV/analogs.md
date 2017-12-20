@@ -69,17 +69,3 @@ conform to [@ros:best-practices].
 All the described packages provide global system diagnostics, lacking
 per-process statistics. There is currently no tool to monitor and report
 node state in ROS.
-
-## References
-
-1) [rep:107] "Diagnostic system for robots running ros," REP 107, 10 2010. [Online].
-Available: <http://www.ros.org/reps/rep-0107.html>
-
-2) [source:psutil-ros] "psutil\_ros repository". [Online]. Available:
-<https://github.com/brNX/psutil\_ros>
-
-3) [ros:best-practices] Ros best practices. [Online]. Available:
-<https://github.com/ethz-asl/ros\_best\_practices/wiki>
-
-4) [source:ros-system-monitor] "ros-system-monitor repository". [Online]. Available:
-<https://github.com/ethz-asl/ros-system-monitor>
