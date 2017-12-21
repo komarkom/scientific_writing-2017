@@ -38,6 +38,18 @@ build_paper() {
     perl -p00i -e 's/(.*)\n[-]+\n/### $1\n/g' paper.md
 }
 
+make_references() {
+    echo "## References" >> paper.md
+    echo "" >> paper.md
+
+    pandoc -f latex -t markdown paper/main.bbl \
+            | perl -p00i -e 's/\n\n/"\n\n".++$i.") "/ge' \
+            | tail -n+4 \
+        >> paper.md
+
+    echo "" >> paper.md
+}
+
 git add paper/ && git commit -m "Update paper submodule."
 
 cp paper/main.tex paper.tex || exit 1
@@ -52,5 +64,6 @@ convert paper/implementation.tex solution_method_description.md
 convert paper/conclusion.tex conclusions.md
 
 build_paper
+make_references
 
 git status
