@@ -328,6 +328,40 @@ Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	does not exist!
 Checking for directory "./4381"
  Directory                ...	Exists!
+4381/SeliverstovNM
+__
+Checking for directory "./4381/SeliverstovNM"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory doesn't exist!
+Checking for fact_result.md
+ fact_result.md           ...	does not exist!
+Checking for purpose-statement files...
+     problem.md               ...	Doesn't exist!
+     research_object.md       ...	Doesn't exist!
+     research_subject.md      ...	Doesn't exist!
+     goal.md                  ...	Doesn't exist!
+     tasks.md                 ...	Doesn't exist!
+     relevance.md             ...	Doesn't exist!
+ Not all of required files exist!
+Checking for analogs.md
+ analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+Checking for conclusions.md
+ conclusions.md                     ...	does not exist!
+Checking for abstract.md
+ abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	Exists!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4381/KarpuninSA
 __
 Checking for directory "./4381/KarpuninSA"
@@ -381,6 +415,40 @@ Checking for paper.pdf
  paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	Exists!
+4381/MikhaylovAA
+__
+Checking for directory "./4381/MikhaylovAA"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory doesn't exist!
+Checking for fact_result.md
+ fact_result.md           ...	does not exist!
+Checking for purpose-statement files...
+     problem.md               ...	Doesn't exist!
+     research_object.md       ...	Doesn't exist!
+     research_subject.md      ...	Doesn't exist!
+     goal.md                  ...	Doesn't exist!
+     tasks.md                 ...	Doesn't exist!
+     relevance.md             ...	Doesn't exist!
+ Not all of required files exist!
+Checking for analogs.md
+ analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+Checking for conclusions.md
+ conclusions.md                     ...	does not exist!
+Checking for abstract.md
+ abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	Exists!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4381/UliashevKD
 __
 Checking for directory "./4381/UliashevKD"
@@ -499,6 +567,40 @@ Checking for paper.pdf
  paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	Exists!
+4381/VasilievAS
+__
+Checking for directory "./4381/VasilievAS"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory doesn't exist!
+Checking for fact_result.md
+ fact_result.md           ...	does not exist!
+Checking for purpose-statement files...
+     problem.md               ...	Doesn't exist!
+     research_object.md       ...	Doesn't exist!
+     research_subject.md      ...	Doesn't exist!
+     goal.md                  ...	Doesn't exist!
+     tasks.md                 ...	Doesn't exist!
+     relevance.md             ...	Doesn't exist!
+ Not all of required files exist!
+Checking for analogs.md
+ analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+Checking for conclusions.md
+ conclusions.md                     ...	does not exist!
+Checking for abstract.md
+ abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	Exists!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4381/SamokhvalovaOS
 __
 Checking for directory "./4381/SamokhvalovaOS"
@@ -935,13 +1037,22 @@ Checking /paper_base directory for .pdf files
 Checking for fact_result.md
  fact_result.md           ...	does not exist!
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	139 symbols
+    research_object.md       ...	17 symbols
+    research_subject.md      ...	58 symbols
+    goal.md                  ...	174 symbols
+    tasks.md                 ...	339 symbols
+    relevance.md             ...	707 symbols
+  All files               ...	1434 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for solution_method_selection.md
@@ -969,7 +1080,7 @@ Checking /paper_base directory for .pdf files
 Checking for fact_result.md
  fact_result.md           ...	does not exist!
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
+     problem.md               ...	Exists!
      research_object.md       ...	Doesn't exist!
      research_subject.md      ...	Doesn't exist!
      goal.md                  ...	Doesn't exist!
@@ -1221,6 +1332,40 @@ Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	does not exist!
 Checking for directory "./4382"
  Directory                ...	Exists!
+4382/AbeuovaA
+__
+Checking for directory "./4382/AbeuovaA"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory doesn't exist!
+Checking for fact_result.md
+ fact_result.md           ...	does not exist!
+Checking for purpose-statement files...
+     problem.md               ...	Doesn't exist!
+     research_object.md       ...	Doesn't exist!
+     research_subject.md      ...	Doesn't exist!
+     goal.md                  ...	Doesn't exist!
+     tasks.md                 ...	Doesn't exist!
+     relevance.md             ...	Doesn't exist!
+ Not all of required files exist!
+Checking for analogs.md
+ analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+Checking for conclusions.md
+ conclusions.md                     ...	does not exist!
+Checking for abstract.md
+ abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 4382/LarionovDS
 __
 Checking for directory "./4382/LarionovDS"
@@ -2005,7 +2150,7 @@ Checking for paper.md
 Checking for paper.pdf
  paper.pdf                          ...	does not exist!
 Checking for paper.docx/odt/tex
- paper.docx/odt/tex                 ...	does not exist!
+ paper.docx/odt/tex                 ...	Exists!
 Checking for directory "./3381"
  Directory                ...	Exists!
 3381/SuchkovAI
@@ -2777,21 +2922,32 @@ Checking for analogs.md
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
- solution_method_selection.md       ...	does not exist!
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	837 symbols
+  Number of symbols in solution_method_selection.md                   ...	Not enough. Min = 1000
 Checking for solution_method_description.md
- solution_method_description.md     ...	does not exist!
+ solution_method_description.md     ...	Exists!
+    solution_method_description.md...	3182 symbols
+  Number of symbols in solution_method_description.md                 ...	Good.
+  Description title!      ...	Exists!
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
- conclusions.md                     ...	does not exist!
+ conclusions.md                     ...	Exists!
+    conclusions.md           ...	719 symbols
+  Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
- abstract.md                        ...	does not exist!
+ abstract.md                        ...	Exists!
+    abstract.md              ...	390 symbols
+  Number of symbols in abstract.md                                    ...	Not enough. Min = 400
 Checking for paper.md
- paper.md                           ...	does not exist!
+ paper.md                           ...	Exists!
 Checking for paper.pdf
- paper.pdf                          ...	does not exist!
+ paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
- paper.docx/odt/tex                 ...	does not exist!
+ paper.docx/odt/tex                 ...	Exists!
 2303/ManyashinDA
 __
 Checking for directory "./2303/ManyashinDA"
@@ -2915,6 +3071,56 @@ Checking for paper.pdf
  paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	Exists!
+2303/KriuchkovAA
+__
+Checking for directory "./2303/KriuchkovAA"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory                ...	Exists!
+ .pdf files found:
+  fatigue_modelling.pdf
+  FRMS Implementation Guide for Operators July 2011.pdf
+  safety-fatigueriskbrochureweb-2012.pdf
+  CrewAlert_v2.3.pdf
+Checking for fact_result.md
+ fact_result.md           ...	does not exist!
+Checking for purpose-statement files...
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	131 symbols
+    research_object.md       ...	19 symbols
+    research_subject.md      ...	54 symbols
+    goal.md                  ...	82 symbols
+    tasks.md                 ...	204 symbols
+    relevance.md             ...	523 symbols
+  All files               ...	1013 symbols
+  Number of symbols in purpose statement's        ...	Good.
+Checking for analogs.md
+ analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+Checking for conclusions.md
+ conclusions.md                     ...	does not exist!
+Checking for abstract.md
+ abstract.md                        ...	Exists!
+    abstract.md              ...	471 symbols
+  Number of symbols in abstract.md                                    ...	Good.
+Checking for paper.md
+ paper.md                           ...	Exists!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	Exists!
 2303/MokretsovRM
 __
 Checking for directory "./2303/MokretsovRM"
@@ -2976,9 +3182,12 @@ Checking for paper.docx/odt/tex
 ['BleesEI', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
 ['ChirukhinAA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '1', '0', '1', '0', '0', '1', '0', '0', '1', '1', '1', '0', '1', '0', '0']
 ['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['SeliverstovNM', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0']
 ['KarpuninSA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1']
+['MikhaylovAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0']
 ['UliashevKD', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '1', '1', '0', '0', '1', '0', '0', '1', '1', '0', '0', '1', '0', '1']
 ['KarpenkoDR', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1']
+['VasilievAS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0']
 ['SamokhvalovaOS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '1', '1', '0', '0', '1', '0', '0', '1', '1', '0', '0', '1', '0', '1']
 ['NikitinaEV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1']
 ['LaptsevichDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
@@ -2988,13 +3197,14 @@ Checking for paper.docx/odt/tex
 ['KhudiakovaDD', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KhafizovIM', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KoptugAD', '1', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['AleshinSV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-['RymarMI', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['AleshinSV', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['RymarMI', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['AndrosovVU', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '1', '1', '1']
 ['AkhmetshinaRR', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['GuschaVV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['DronnikovIM', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['GordeevaTV', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['AbeuovaA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['LarionovDS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['PerkovAS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['DanilovSV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '1', '0', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', '0']
@@ -3008,7 +3218,7 @@ Checking for paper.docx/odt/tex
 ['KlimukKP', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['IshchenkoAP', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['KuzminME', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '0', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
-['LikhachevAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['LikhachevAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1']
 ['SuchkovAI', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '0', '0']
 ['GolubevVV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['GrunyashinAS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
@@ -3022,8 +3232,9 @@ Checking for paper.docx/odt/tex
 ['KozlovPV', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '1', '0', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', '1']
 ['SkorospelovLA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['AvakyanAR', '1', '1', '0', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '1', '0', '1', '0', '0', '0', '0', '0', '1', '0', '1', '0', '1', '0', '0']
-['ZaborovskiyEV', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+['ZaborovskiyEV', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '1', '1', '1']
 ['ManyashinDA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['CherepanovEA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['Kanushin_MS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1']
+['KriuchkovAA', '1', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '0', '1']
 ['MokretsovRM', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0']

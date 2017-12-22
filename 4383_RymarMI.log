@@ -6,7 +6,7 @@ Checking /paper_base directory for .pdf files
 Checking for fact_result.md
  fact_result.md           ...	does not exist!
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
+     problem.md               ...	Exists!
      research_object.md       ...	Doesn't exist!
      research_subject.md      ...	Doesn't exist!
      goal.md                  ...	Doesn't exist!

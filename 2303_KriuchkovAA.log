@@ -1,12 +1,15 @@
 __
-Checking for directory "./4381/KarpenkoDR"
+Checking for directory "./2303/KriuchkovAA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  fatigue_modelling.pdf
+  FRMS Implementation Guide for Operators July 2011.pdf
+  safety-fatigueriskbrochureweb-2012.pdf
+  CrewAlert_v2.3.pdf
 Checking for fact_result.md
- fact_result.md           ...	Exists!
-    fact_result.md           ...	1046 symbols
-  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+ fact_result.md           ...	does not exist!
 Checking for purpose-statement files...
      problem.md               ...	Exists!
      research_object.md       ...	Exists!
@@ -16,24 +19,16 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	91 symbols
-    research_object.md       ...	65 symbols
-    research_subject.md      ...	68 symbols
-    goal.md                  ...	157 symbols
-    tasks.md                 ...	222 symbols
-    relevance.md             ...	126 symbols
-  All files               ...	729 symbols
+    problem.md               ...	131 symbols
+    research_object.md       ...	19 symbols
+    research_subject.md      ...	54 symbols
+    goal.md                  ...	82 symbols
+    tasks.md                 ...	204 symbols
+    relevance.md             ...	523 symbols
+  All files               ...	1013 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	Exists!
-    analogs.md               ...	2287 symbols
-  Number of symbols in analogs.md                 ...	Good.
-  Analogs title!          ...	Exists!
-   Number of analogs     ...	Good.
-  Criterias title!        ...	Exists!
-   Number of analogs     ...	Good.
-  Sources title!          ...	Exists!
-   Number of sources     ...	At least 1! Good!
+ analogs.md               ...	does not exist!
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	does not exist!
 Checking for solution_method_description.md
@@ -43,11 +38,13 @@ Checking for solution_method_evaluation.md
 Checking for conclusions.md
  conclusions.md                     ...	does not exist!
 Checking for abstract.md
- abstract.md                        ...	does not exist!
+ abstract.md                        ...	Exists!
+    abstract.md              ...	471 symbols
+  Number of symbols in abstract.md                                    ...	Good.
 Checking for paper.md
  paper.md                           ...	Exists!
 Checking for paper.pdf
- paper.pdf                          ...	Exists!
+ paper.pdf                          ...	does not exist!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	Exists!
-4381/VasilievAS
+2303/MokretsovRM

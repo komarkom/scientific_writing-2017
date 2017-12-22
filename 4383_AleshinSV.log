@@ -6,13 +6,22 @@ Checking /paper_base directory for .pdf files
 Checking for fact_result.md
  fact_result.md           ...	does not exist!
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	139 symbols
+    research_object.md       ...	17 symbols
+    research_subject.md      ...	58 symbols
+    goal.md                  ...	174 symbols
+    tasks.md                 ...	339 symbols
+    relevance.md             ...	707 symbols
+  All files               ...	1434 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for solution_method_selection.md

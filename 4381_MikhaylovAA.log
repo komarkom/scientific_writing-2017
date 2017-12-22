@@ -1,5 +1,5 @@
 __
-Checking for directory "./3304/OsipovVG"
+Checking for directory "./4381/MikhaylovAA"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
  Directory doesn't exist!
@@ -28,9 +28,7 @@ Checking for abstract.md
 Checking for paper.md
  paper.md                           ...	does not exist!
 Checking for paper.pdf
- paper.pdf                          ...	does not exist!
+ paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	does not exist!
-Checking for directory "./4381"
- Directory                ...	Exists!
-4381/SeliverstovNM
+4381/UliashevKD
