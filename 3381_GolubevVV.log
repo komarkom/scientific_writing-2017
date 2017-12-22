@@ -2,7 +2,10 @@ __
 Checking for directory "./3381/GolubevVV"
  Directory                ...	Exists!
 Checking /paper_base directory for .pdf files
- Directory doesn't exist!
+ Directory                ...	Exists!
+ .pdf files found:
+  The Linux Programming Interface.pdf
+  Linux Device Drivers.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
     fact_result.md           ...	1994 symbols
@@ -26,18 +29,18 @@ Checking for purpose-statement files...
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	3042 symbols
+    analogs.md               ...	2793 symbols
   Number of symbols in analogs.md                 ...	Good.
   There is no Analogs title!
   There is no Criterias title!
   There is no Sources title!
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	Exists!
-    solution_method_selection.md...	2938 symbols
+    solution_method_selection.md...	3208 symbols
   Number of symbols in solution_method_selection.md                   ...	Good.
 Checking for solution_method_description.md
  solution_method_description.md     ...	Exists!
-    solution_method_description.md...	4029 symbols
+    solution_method_description.md...	3422 symbols
   Number of symbols in solution_method_description.md                 ...	Good.
   There is no Description title!
   There is no Sources title!
@@ -45,18 +48,18 @@ Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
  conclusions.md                     ...	Exists!
-    conclusions.md           ...	1022 symbols
+    conclusions.md           ...	1012 symbols
   Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
  abstract.md                        ...	Exists!
-    abstract.md              ...	407 symbols
+    abstract.md              ...	467 symbols
   Number of symbols in abstract.md                                    ...	Good.
 Checking for paper.md
  paper.md                           ...	Exists!
 Checking for paper.pdf
- paper.pdf                          ...	does not exist!
+ paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
- paper.docx/odt/tex                 ...	does not exist!
+ paper.docx/odt/tex                 ...	Exists!
 Checking for directory "./2381"
  Directory                ...	Exists!
 2381/GrunyashinAS
