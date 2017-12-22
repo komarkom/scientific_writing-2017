@@ -1,0 +1,56 @@
+\documentclass[conference]{IEEEtran}
+
+\usepackage{blindtext}
+\usepackage{graphics}
+\usepackage{hyperref}
+
+\begin{document}
+
+\title{Towards a flexible and reactive diagnostics tool for ROS}
+
+\author{
+    \IEEEauthorblockN{Vladimir Golubev}
+    \IEEEauthorblockA{
+        Applied Mathematics and Informatics\\
+        Faculty of Computer Science and Technology\\
+        Saint Petersburg Electrotechnical University\\
+        Email: trevorismay@gmail.com
+    }
+}
+
+\maketitle
+
+\begin{abstract}
+\input{abstract}
+\end{abstract}
+
+\begin{IEEEkeywords}
+diagnostics, system monitoring, Linux, ROS, publisher-subscriber, reactivity
+\end{IEEEkeywords}
+
+\IEEEpeerreviewmaketitle
+
+\section{Introduction} \label{section:introduction}
+\input{introduction}
+
+\section{Requirements} \label{section:requirements}
+\input{requirements}
+
+\section{Alternatives} \label{section:alternatives}
+\input{alternatives}
+
+\section{Implementation} \label{section:implementation}
+\input{implementation}
+
+\section{Conclusion} \label{section:conclusion}
+\input{conclusion}
+
+\ifCLASSOPTIONcaptionsoff
+  \newpage
+\fi
+
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEabrv,bibliography}
+
+\end{document}
+

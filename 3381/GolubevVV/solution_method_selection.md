@@ -19,20 +19,20 @@ due to system API specifics, discussed in \[section:implementation\].
 Which means that system call frequency matters.
 
 To follow ROS reactive workflow, synchronious polling approach must be
-turned to asynchronious on the interface level, which requires some
-internal state. To report swap space usage difference, for example.
+turned to asynchronous on the interface level, which requires some
+internal state, to report swap space usage difference, for example.
 Diagnostics structure size may seem insignificant, but to watch over its
 bloat is a good guideline nevertheless.
 
-Finally, observing individual ROS node changes can be quite costly,
-because the number of individual system calls and IPC cases grows with
-the number of observed participants.
+The implementation preformance should be continuously challenged. On a
+certain stage of development is would be possible to perform reflective
+monitoring, a “meta diagnostics”.
 
 Reactivity {#subsection:reactivity}
 ----------
 
 Reactivity is a key point in designing diagnostics tool. The reported
-events reflect system state changes. Briefly discussed in
+events reflect system state changes. Discussed in
 \[section:introduction\], this property is derived from standard ROS
 publisher-subscriber workflow. Although the interface should obviously
 be implemented using ROS *msg* stack, it’s still not clear how to
@@ -58,17 +58,23 @@ because for such topics the events of interest vary from one system
 setup to other. This also leads us to the question of flexibility and
 configuration.
 
+To conclude, reactivity can be achieved by reporting notable system
+change as close as possible to the moment of its exposure. The *msg*
+stack is especially suitable for this task.
+
 Flexibility
 -----------
 
 The last topic raised in \[subsection:reactivity\] leads to the
 important question: “How to implement a diagnostics system, which is
 equally usable for different setups?”. The answer is configuration, but
-the choice of configuration mechanism is still up to us.
+the choice of this mechanism is still up to us. Some standard
+configuration tool must be chosen.
 
-Moreover, it’s unclear how to optimally organize the system features. It
-must be possible for user to switch features on and off depending on her
-demands. To avoid unnecessary *sysfs* polling overhead, for example.
+It must be possible for user to switch features on and off depending on
+her demands to avoid unnecessary *sysfs* polling overhead, for example.
+The ability to tweak resource limits and timeouts of operations under
+observation is also important.
 
 Portability
 -----------
@@ -81,8 +87,6 @@ tools, for code reuse reasons. Considering this guideline, it’s
 favourable to produce original (non-wrapped) package using
 platform-independent tools.
 
-## References
-
-1) [ros:best-practices] Ros best practices. [Online]. Available:
-<https://github.com/ethz-asl/ros\_best\_practices/wiki>
-
+This goal can be achieved either by choosing already portable tools, or
+by wrapping abstractions uniformly. The former way is elegant and more
+preferrable - the portability property is simply inherited.
