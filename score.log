@@ -2285,6 +2285,47 @@ Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	Exists!
 Checking for directory "./2381"
  Directory                ...	Exists!
+2381/SemenovaJL
+__
+Checking for directory "./2381/SemenovaJL"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory                ...	Exists!
+ .pdf files found:
+  Kolesov_Senichenkov.pdf
+  Dulin_Repev.pdf
+Checking for fact_result.md
+ fact_result.md           ...	does not exist!
+Checking for purpose-statement files...
+     problem.md               ...	Doesn't exist!
+     research_object.md       ...	Doesn't exist!
+     research_subject.md      ...	Doesn't exist!
+     goal.md                  ...	Doesn't exist!
+     tasks.md                 ...	Doesn't exist!
+     relevance.md             ...	Doesn't exist!
+ Not all of required files exist!
+Checking for analogs.md
+ analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+Checking for conclusions.md
+ conclusions.md                     ...	Exists!
+    conclusions.md           ...	Empty!
+  Number of symbols in conclusions.md                                 ...	Not enough. Min = 500
+Checking for abstract.md
+ abstract.md                        ...	Exists!
+    abstract.md              ...	Empty!
+  Number of symbols in abstract.md                                    ...	Not enough. Min = 400
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	Exists!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	Exists!
 2381/GrunyashinAS
 __
 Checking for directory "./2381/GrunyashinAS"
@@ -3221,6 +3262,7 @@ Checking for paper.docx/odt/tex
 ['LikhachevAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1']
 ['SuchkovAI', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '0', '0']
 ['GolubevVV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
+['SemenovaJL', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '1', '0', '0', '1', '1']
 ['GrunyashinAS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['AlekseevichAS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['ChulanovAA', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
