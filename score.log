@@ -2317,11 +2317,14 @@ Checking for purpose-statement files...
   Number of symbols in purpose statement's        ...	Not enough. Min = 300
 Checking for analogs.md
  analogs.md               ...	Exists!
-    analogs.md               ...	Empty!
+    analogs.md               ...	1975 symbols
   Number of symbols in analogs.md                 ...	Not enough. Min = 2000
-  There is no Analogs title!
-  There is no Criterias title!
-  There is no Sources title!
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Good.
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Good.
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	Exists!
     solution_method_selection.md...	Empty!
@@ -3284,7 +3287,7 @@ Checking for paper.docx/odt/tex
 ['LikhachevAA', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1']
 ['SuchkovAI', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '0', '0']
 ['GolubevVV', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
-['SemenovaJL', '1', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '1', '0', '1', '0', '0', '0', '0', '0', '1', '0', '1', '0', '1', '1', '1']
+['SemenovaJL', '1', '1', '0', '1', '1', '1', '1', '1', '1', '0', '1', '0', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '1', '0', '1', '0', '1', '1', '1']
 ['GrunyashinAS', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['AlekseevichAS', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
 ['ChulanovAA', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1']
