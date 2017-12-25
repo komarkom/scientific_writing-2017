@@ -15,8 +15,8 @@
 
 ## Обзор предметной области
 ### Openalpr-android
-Automatic plate recogcnition for android это библиотека под android для поиска номеров машин. С её помощью удалось сделать приложение для распознавания американских номеров, однако русские номера данная библиотека не определяет.
-### Google vision optical character recogcnition
+Automatic plate recognition for Android - это библиотека под android для поиска номеров машин. С её помощью удалось сделать приложение для распознавания американских номеров, однако русские номера данная библиотека не определяет.
+### Google vision optical character recognition
 Это часть Google Cloud Vision API, предназначенная для определения текста. Распознаёт практически любой текст. Данная библиотека не нацелена на распознавание номеров машин, однако распознаёт их текст, выдавая при этом несколько вариантов текста. Можно использовать с любого устройства, однако требуется подключение к интернету и Google API services.
 ### Google android vision
 Это часть Google text recognition api для определения текста. Данная библиотека позвоялет распознавать текст без подключения к google api services и интернету. Однако она распознаёт весь текст, который попал в кадр. Не рапознаёт конкретно номера и русские буквы. Может распознать номер машины как латыницу, выдавая при этом несколько вариантов текста.  
@@ -92,5 +92,5 @@ Automatic plate recogcnition for android это библиотека под andr
 ## Источники
 
 Источники:
-[1] Gary Bradski, Adrian Kaehler "Learning OpenCV: Computer Vision with the OpenCV Library", September 2008. - 566 с. https://www.ozon.ru/context/detail/id/5415514/
+[1] Gary Bradski, Adrian Kaehler "Learning OpenCV: Computer Vision with the OpenCV Library", September 2008. - 566 с. 
 [2] "Viola–Jones object detection framework". URL:[https://en.wikipedia.org/wiki/Viola–Jones_object_detection_framework](https://en.wikipedia.org/wiki/Viola–Jones_object_detection_framework)
