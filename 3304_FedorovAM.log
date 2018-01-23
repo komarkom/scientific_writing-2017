@@ -11,13 +11,22 @@ Checking for fact_result.md
     fact_result.md           ...	266 symbols
   Number of symbols in fact_result.md             ...	Not enough. Min = 1200
 Checking for purpose-statement files...
-     problem.md               ...	Doesn't exist!
-     research_object.md       ...	Doesn't exist!
-     research_subject.md      ...	Doesn't exist!
-     goal.md                  ...	Doesn't exist!
-     tasks.md                 ...	Doesn't exist!
-     relevance.md             ...	Doesn't exist!
- Not all of required files exist!
+     problem.md               ...	Exists!
+     research_object.md       ...	Exists!
+     research_subject.md      ...	Exists!
+     goal.md                  ...	Exists!
+     tasks.md                 ...	Exists!
+     relevance.md             ...	Exists!
+ All required files exist!
+  Counting symbols...
+    problem.md               ...	102 symbols
+    research_object.md       ...	71 symbols
+    research_subject.md      ...	82 symbols
+    goal.md                  ...	107 symbols
+    tasks.md                 ...	343 symbols
+    relevance.md             ...	283 symbols
+  All files               ...	988 symbols
+  Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	does not exist!
 Checking for solution_method_selection.md
