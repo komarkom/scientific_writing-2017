@@ -296,6 +296,45 @@ Checking for paper.pdf
  paper.pdf                          ...	does not exist!
 Checking for paper.docx/odt/tex
  paper.docx/odt/tex                 ...	does not exist!
+3304/FedorovAM
+__
+Checking for directory "./3304/FedorovAM"
+ Directory                ...	Exists!
+Checking /paper_base directory for .pdf files
+ Directory                ...	Exists!
+ .pdf files found:
+  Uncertainty-Aware Expectation Maximization Approach.pdf
+  Distributed Consensus on Robot Networks for Dynamically Merging Feature-Based Maps.pdf
+Checking for fact_result.md
+ fact_result.md           ...	Exists!
+    fact_result.md           ...	266 symbols
+  Number of symbols in fact_result.md             ...	Not enough. Min = 1200
+Checking for purpose-statement files...
+     problem.md               ...	Doesn't exist!
+     research_object.md       ...	Doesn't exist!
+     research_subject.md      ...	Doesn't exist!
+     goal.md                  ...	Doesn't exist!
+     tasks.md                 ...	Doesn't exist!
+     relevance.md             ...	Doesn't exist!
+ Not all of required files exist!
+Checking for analogs.md
+ analogs.md               ...	does not exist!
+Checking for solution_method_selection.md
+ solution_method_selection.md       ...	does not exist!
+Checking for solution_method_description.md
+ solution_method_description.md     ...	does not exist!
+Checking for solution_method_evaluation.md
+ solution_method_evaluation.md      ...	does not exist!
+Checking for conclusions.md
+ conclusions.md                     ...	does not exist!
+Checking for abstract.md
+ abstract.md                        ...	does not exist!
+Checking for paper.md
+ paper.md                           ...	does not exist!
+Checking for paper.pdf
+ paper.pdf                          ...	does not exist!
+Checking for paper.docx/odt/tex
+ paper.docx/odt/tex                 ...	does not exist!
 3304/OsipovVG
 __
 Checking for directory "./3304/OsipovVG"
@@ -3251,6 +3290,7 @@ Checking for paper.docx/odt/tex
 ['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0']
 ['BleesEI', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
 ['ChirukhinAA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '1', '0', '1', '0', '0', '1', '0', '0', '1', '1', '1', '0', '1', '0', '0']
+['FedorovAM', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['SeliverstovNM', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0']
 ['KarpuninSA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1']
