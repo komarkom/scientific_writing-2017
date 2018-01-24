@@ -5,6 +5,7 @@ Checking /paper_base directory for .pdf files
  Directory                ...	Exists!
  .pdf files found:
   Uncertainty-Aware Expectation Maximization Approach.pdf
+  SLAM using Particle Filters.pdf
   Distributed Consensus on Robot Networks for Dynamically Merging Feature-Based Maps.pdf
 Checking for fact_result.md
  fact_result.md           ...	Exists!
@@ -28,7 +29,15 @@ Checking for purpose-statement files...
   All files               ...	988 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
- analogs.md               ...	does not exist!
+ analogs.md               ...	Exists!
+    analogs.md               ...	1417 symbols
+  Number of symbols in analogs.md                 ...	Not enough. Min = 2000
+  Analogs title!          ...	Exists!
+   Number of analogs     ...	Not enough. Min = 3
+  Criterias title!        ...	Exists!
+   Number of analogs     ...	Not enough. Min = 3
+  Sources title!          ...	Exists!
+   Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
  solution_method_selection.md       ...	does not exist!
 Checking for solution_method_description.md
