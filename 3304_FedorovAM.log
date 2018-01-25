@@ -39,9 +39,7 @@ Checking for analogs.md
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
- solution_method_selection.md       ...	Exists!
-    solution_method_selection.md...	900 symbols
-  Number of symbols in solution_method_selection.md                   ...	Not enough. Min = 1000
+ solution_method_selection.md       ...	does not exist!
 Checking for solution_method_description.md
  solution_method_description.md     ...	does not exist!
 Checking for solution_method_evaluation.md
