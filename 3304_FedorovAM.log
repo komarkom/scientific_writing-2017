@@ -20,13 +20,13 @@ Checking for purpose-statement files...
      relevance.md             ...	Exists!
  All required files exist!
   Counting symbols...
-    problem.md               ...	102 symbols
+    problem.md               ...	70 symbols
     research_object.md       ...	71 symbols
     research_subject.md      ...	82 symbols
     goal.md                  ...	107 symbols
     tasks.md                 ...	343 symbols
     relevance.md             ...	283 symbols
-  All files               ...	988 symbols
+  All files               ...	956 symbols
   Number of symbols in purpose statement's        ...	Good.
 Checking for analogs.md
  analogs.md               ...	Exists!
@@ -39,7 +39,9 @@ Checking for analogs.md
   Sources title!          ...	Exists!
    Number of sources     ...	At least 1! Good!
 Checking for solution_method_selection.md
- solution_method_selection.md       ...	does not exist!
+ solution_method_selection.md       ...	Exists!
+    solution_method_selection.md...	900 symbols
+  Number of symbols in solution_method_selection.md                   ...	Not enough. Min = 1000
 Checking for solution_method_description.md
  solution_method_description.md     ...	does not exist!
 Checking for solution_method_evaluation.md
