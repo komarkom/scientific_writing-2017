@@ -39,7 +39,7 @@ i<sub>i</sub><sup>k</sup>=(H<sub>i</sub><sup>k</sup>)^T^(Σ<sub>i</sub><sup>k</s
 
         
 k = 1
-y<sub>i</sub><sup>k</sup>(0)=0, w<sub>i</sub><sup>k</sup>(0) = 0
+y```<sub>i</sub><sup>k</sup>(0)=0, w<sub>i</sub><sup>k</sup>```{r, tidy=FALSE, eval=FALSE, highlight=FALSE }(0) = 0
 for k = 1, ...; K-1
 	for t=0, ..., l-1
 		вычислим y<sub>i</sub><sup>k</sup>(t+1) и w<sub>i</sub><sup>k</sup>(t+1) по формуле 1
