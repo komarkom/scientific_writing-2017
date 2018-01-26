@@ -25,7 +25,7 @@
 Введём локальную информационную матрицу I<sub>i</sub><sup>k</sup> и локальный информационный вектор i<sub>i</sub><sup>k</sup> для робота i на шаге k, определяемые следующими формулами:
 I<sub>i</sub><sup>k</sup>=(H<sub>i</sub><sup>k</sup>)^T^(Σ<sub>i</sub><sup>k</sup>)^-1^H<sub>i</sub><sup>k</sup>
 i<sub>i</sub><sup>k</sup>=(H<sub>i</sub><sup>k</sup>)^T^(Σ<sub>i</sub><sup>k</sup>)^-1^x<sub>i</sub><sup>k</sup>
-Введём обозначение [M]~rs~, которое означает элемент матрицы M, находящийся в строке r и столбце s. Введём обозначение [v]~r~, которое означает элемент вектора-столбца v, находящийся в строке r. Выполним расчёт усреднённой информационной матрицы I~avg,i~<sup>k</sup> и усреднённого информационного вектора i~avg,i~<sup>k</sup>. Каждый элемент [I~avg,i~<sup>k</sup>]~rs~, а также каждый элемент [i~avg,i~<sup>k</sup>]~r~, вычисляется по алгоритму 1, при этом в качестве параметра u<sub>i</sub><sup>k</sup> используется значение элемента [I<sub>i</sub><sup>k</sup>]~rs~ при расчёте [i~avg,i~<sup>k</sup>]~rs~, и [i<sub>i</sub><sup>k</sup>]~r~ при расчёте [i~avg,i~<sup>k</sup>]~r~. Выходным значением алгоритма 1 является result. После завершения работы алгоритма данное значение записывается в [I~avg,i~<sup>k</sup>]~rs~ или [i~avg,i~<sup>k</sup>]~r~.
+Введём обозначение [M]<sub>rs</sub>, которое означает элемент матрицы M, находящийся в строке r и столбце s. Введём обозначение [v]<sub>r</sub>, которое означает элемент вектора-столбца v, находящийся в строке r. Выполним расчёт усреднённой информационной матрицы I<sub>avg,i</sub><sup>k</sup> и усреднённого информационного вектора i<sub>avg,i</sub><sup>k</sup>. Каждый элемент [I<sub>avg,i</sub><sup>k</sup>]<sub>rs</sub>, а также каждый элемент [i<sub>avg,i</sub><sup>k</sup>]<sub>r</sub>, вычисляется по алгоритму 1, при этом в качестве параметра u<sub>i</sub><sup>k</sup> используется значение элемента [I<sub>i</sub><sup>k</sup>]<sub>rs</sub> при расчёте [i<sub>avg,i</sub><sup>k</sup>]<sub>rs</sub>, и [i<sub>i</sub><sup>k</sup>]<sub>r</sub> при расчёте [i<sub>avg,i</sub><sup>k</sup>]<sub>r</sub>. Выходным значением алгоритма 1 является result. После завершения работы алгоритма данное значение записывается в [I<sub>avg,i</sub><sup>k</sup>]<sub>rs</sub> или [i<sub>avg,i</sub><sup>k</sup>]<sub>r</sub>.
 Введём обозначение **I**, которое означает единичную матрицу размером n*n. Введём обозначение **0**, которое означает матрицу размера n*n, все элементы котрой являются нулями.
 Алгоритм 1 будет использовать следующую формулу:
 ![формула 1](1.png)
@@ -55,9 +55,9 @@ result=y<sub>i</sub><sup>k</sup>(L-(K-1)*l-1)
 
 
 ```
-После вычисления усреднённой информационной матрицы I~avg,i~<sup>k</sup> и усреднённого информационного вектора i~avg,i~<sup>k</sup> производится вычисление глобальной карты x<sub>G;i</sub><sup>k</sup> и её ковариционной матрицы Σ<sub>G;i</sub><sup>k</sup> по формулам:
-x<sub>G;i</sub><sup>k</sup>=(I~avg,i~<sup>k</sup>)^-1^i~avg,i~<sup>k</sup>
-Σ<sub>G;i</sub><sup>k</sup>=(I~avg,i~<sup>k</sup>)^-1^/n
+После вычисления усреднённой информационной матрицы I<sub>avg,i</sub><sup>k</sup> и усреднённого информационного вектора i<sub>avg,i</sub><sup>k</sup> производится вычисление глобальной карты x<sub>G;i</sub><sup>k</sup> и её ковариционной матрицы Σ<sub>G;i</sub><sup>k</sup> по формулам:
+x<sub>G;i</sub><sup>k</sup>=(I<sub>avg,i</sub><sup>k</sup>)^-1^i<sub>avg,i</sub><sup>k</sup>
+Σ<sub>G;i</sub><sup>k</sup>=(I<sub>avg,i</sub><sup>k</sup>)^-1^/n
 ## Источники
 
 1. Rosario Aragues, Jorge Cortes, Carlos Sagues. Distributed Consensus on Robot Networks for Dynamically Merging Feature-Based Maps -  IEEE Transactions on Robotics
