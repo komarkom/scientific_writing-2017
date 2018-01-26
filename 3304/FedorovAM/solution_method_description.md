@@ -35,11 +35,8 @@ i<sub>i</sub><sup>k</sup>=(H<sub>i</sub><sup>k</sup>)^T^(Σ<sub>i</sub><sup>k</s
 Вычисление L осуществляется по следующей формуле: L=**I**-W~M~, где W~M~<sup>k</sup> - весовая матрица, элементы которой соответсвуют паре роботов с номерами i и j. Для расчёта элементов W~M~ используется формула 3:  
 ![формула 3](3.png)  
 Алгоритм 1:
-```{r, tidy=FALSE, eval=FALSE, highlight=FALSE }
-
-        
 k = 1
-y```<sub>i</sub><sup>k</sup>(0)=0, w<sub>i</sub><sup>k</sup>```{r, tidy=FALSE, eval=FALSE, highlight=FALSE }(0) = 0
+y<sub>i</sub><sup>k</sup>(0)=0, w<sub>i</sub><sup>k</sup>(0) = 0
 for k = 1, ...; K-1
 	for t=0, ..., l-1
 		вычислим y<sub>i</sub><sup>k</sup>(t+1) и w<sub>i</sub><sup>k</sup>(t+1) по формуле 1
@@ -51,7 +48,7 @@ for t=0, ..., L-(K-1)*l-1
 	вычислим y<sub>i</sub><sup>k</sup>(t+1) и w<sub>i</sub><sup>k</sup>(t+1) по формуле 1
 end for
 result=y<sub>i</sub><sup>k</sup>(L-(K-1)*l-1)
-```
+
 После вычисления усреднённой информационной матрицы I<sub>avg,i</sub><sup>k</sup> и усреднённого информационного вектора i<sub>avg,i</sub><sup>k</sup> производится вычисление глобальной карты x<sub>G;i</sub><sup>k</sup> и её ковариционной матрицы Σ<sub>G;i</sub><sup>k</sup> по формулам:
 x<sub>G;i</sub><sup>k</sup>=(I<sub>avg,i</sub><sup>k</sup>)^-1^i<sub>avg,i</sub><sup>k</sup>
 Σ<sub>G;i</sub><sup>k</sup>=(I<sub>avg,i</sub><sup>k</sup>)^-1^/n
