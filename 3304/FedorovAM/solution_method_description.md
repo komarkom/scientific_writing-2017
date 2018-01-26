@@ -37,8 +37,8 @@ i<sub>i</sub><sup>k</sup>=(H<sub>i</sub><sup>k</sup>)^T^(Σ<sub>i</sub><sup>k</s
 Алгоритм 1:  
     k = 1  
     y<sub>i</sub><sup>k</sup>(0)=0, w<sub>i</sub><sup>k</sup>(0) = 0  
-    ```{r, tidy=FALSE, eval=FALSE, highlight=FALSE }    ```for k = 1, ..., K-1  
-            for t=0, ..., l-1  
+    for k = 1, ..., K-1  
+    &nbsp&nbsp&nbsp&nbspfor t=0, ..., l-1  
                 вычислим y<sub>i</sub><sup>k</sup>(t+1) и w<sub>i</sub><sup>k</sup>(t+1) по формуле 1  
             end for  
             y<sub>i</sub>^k+1^(0)=y<sub>i</sub><sup>k</sup>(l), w<sub>i</sub>^k+1^(0)=w<sub>i</sub><sup>k</sup>(l)  
