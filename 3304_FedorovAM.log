@@ -56,7 +56,9 @@ Checking for conclusions.md
     conclusions.md           ...	536 symbols
   Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
- abstract.md                        ...	does not exist!
+ abstract.md                        ...	Exists!
+    abstract.md              ...	330 symbols
+  Number of symbols in abstract.md                                    ...	Not enough. Min = 400
 Checking for paper.md
  paper.md                           ...	does not exist!
 Checking for paper.pdf
