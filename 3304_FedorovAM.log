@@ -52,7 +52,9 @@ Checking for solution_method_description.md
 Checking for solution_method_evaluation.md
  solution_method_evaluation.md      ...	does not exist!
 Checking for conclusions.md
- conclusions.md                     ...	does not exist!
+ conclusions.md                     ...	Exists!
+    conclusions.md           ...	536 symbols
+  Number of symbols in conclusions.md                                 ...	Good.
 Checking for abstract.md
  abstract.md                        ...	does not exist!
 Checking for paper.md
