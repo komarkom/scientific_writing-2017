@@ -343,7 +343,7 @@ Checking for solution_method_selection.md
   Number of symbols in solution_method_selection.md                   ...	Not enough. Min = 1000
 Checking for solution_method_description.md
  solution_method_description.md     ...	Exists!
-    solution_method_description.md...	3967 symbols
+    solution_method_description.md...	4025 symbols
   Number of symbols in solution_method_description.md                 ...	Good.
   There is no Description title!
   Sources title!          ...	Exists!
@@ -359,11 +359,11 @@ Checking for abstract.md
     abstract.md              ...	330 symbols
   Number of symbols in abstract.md                                    ...	Not enough. Min = 400
 Checking for paper.md
- paper.md                           ...	does not exist!
+ paper.md                           ...	Exists!
 Checking for paper.pdf
- paper.pdf                          ...	does not exist!
+ paper.pdf                          ...	Exists!
 Checking for paper.docx/odt/tex
- paper.docx/odt/tex                 ...	does not exist!
+ paper.docx/odt/tex                 ...	Exists!
 3304/OsipovVG
 __
 Checking for directory "./3304/OsipovVG"
@@ -3319,7 +3319,7 @@ Checking for paper.docx/odt/tex
 ['PutkovDA', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0']
 ['BleesEI', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
 ['ChirukhinAA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '1', '0', '1', '0', '0', '1', '0', '0', '1', '1', '1', '0', '1', '0', '0']
-['FedorovAM', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '0', '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', '0']
+['FedorovAM', '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '0', '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '1', '1', '1']
 ['OsipovVG', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
 ['SeliverstovNM', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0']
 ['KarpuninSA', '0', '1', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1']
