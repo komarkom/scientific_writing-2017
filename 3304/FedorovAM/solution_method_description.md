@@ -47,7 +47,7 @@ i<sub>i</sub><sup>k</sup>=(H<sub>i</sub><sup>k</sup>)^T^(Σ<sub>i</sub><sup>k</s
         for t=0, ..., L-(K-1)*l-1  
       &nbsp; &nbsp; &nbsp; &nbsp;      вычислим y<sup>k</sup>(t+1) и w<sup>k</sup>(t+1) по формуле 1  
         end for  
-        result=[y<sup>k</sup>(L-(K-1)*l-1)]<sub>i</sub>   
+        result=[y<sup>k</sup>(L-(K-1)*l)]<sub>i</sub>   
 После вычисления усреднённой информационной матрицы I<sub>avg,i</sub><sup>k</sup> и усреднённого информационного вектора i<sub>avg,i</sub><sup>k</sup> производится вычисление глобальной карты x<sub>G;i</sub><sup>k</sup> и её ковариационной матрицы Σ<sub>G;i</sub><sup>k</sup> по формулам:
 x<sub>G;i</sub><sup>k</sup>=(I<sub>avg,i</sub><sup>k</sup>)^-1^i<sub>avg,i</sub><sup>k</sup>
 Σ<sub>G;i</sub><sup>k</sup>=(I<sub>avg,i</sub><sup>k</sup>)^-1^/n
